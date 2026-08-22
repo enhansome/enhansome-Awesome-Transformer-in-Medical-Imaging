@@ -162,7 +162,7 @@
 **Semi-Supervised Medical Image Segmentation via Cross Teaching between CNN and Transformer**<br>
 *Xiangde Luo, Minhao Hu, Tao Song, Guotai Wang, Shaoting Zhang*<br>
 \[9th Dec., 2021] \[MIDL, 2022] \
-\[[PDF](https://arxiv.org/abs/2112.04894)] \[[Github](https://github.com/HiLab-git/SSL4MIS) ⭐ 2,674 | 🐛 36 | 🌐 Python | 📅 2025-06-07]
+\[[PDF](https://arxiv.org/abs/2112.04894)] \[[Github](https://github.com/HiLab-git/SSL4MIS) ⭐ 2,675 | 🐛 36 | 🌐 Python | 📅 2025-06-07]
 
 **T-AutoML: Automated Machine Learning for Lesion Segmentation using Transformers in 3D Medical Imaging**<br>
 *Dong Yang, Andriy Myronenko, Xiaosong Wang, Ziyue Xu, Holger R. Roth, Daguang Xu*<br>
@@ -471,4 +471,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-21._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-22._
