@@ -1,7 +1,738 @@
 {
-  "items": [],
+  "items": [
+    {
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "HATNet: An End-to-End Holistic Attention Network for Diagnosis of Breast Biopsy Images Sachin Mehta, Ximing Lu, Donald Weaver, Joann G. Elmore, Hannaneh Hajishirzi, Linda Shapiro [25th Jul, 2020] [MedIA Journal, 2022] [PDF",
+              "description": "] [GitHub]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 276995169,
+                "language": "Python",
+                "last_commit": "2020-07-28T04:46:02Z",
+                "owner": "sacmehta",
+                "repo": "HATNet",
+                "stars": 29
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "A graph-transformer for whole slide image classification Yi Zheng, Rushin H. Gindra, Emily J. Green, Eric J. Burks, Margrit Betke, Jennifer E. Beane, Vijaya B. Kolachalama [19th May, 2022] [TMI Journal, 2022] [PDF",
+              "description": "] [GitHub]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 403422519,
+                "language": "Python",
+                "last_commit": "2024-06-17T15:58:22Z",
+                "owner": "vkola-lab",
+                "repo": "tmi2022",
+                "stars": 181
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "MIL-VT: Multiple Instance Learning Enhanced Vision Transformer for Fundus Image Classification Shuang Yu, Kai Ma, Qi Bi, Cheng Bian, Munan Ning, Nanjun He, Yuexiang Li, Hanruo Liu, Yefeng Zheng [21st Sep., 2021] [MICCAI, 2021] [PDF",
+              "description": "] [GitHub]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 383100186,
+                "language": "Python",
+                "last_commit": "2021-11-27T01:24:02Z",
+                "owner": "greentreeys",
+                "repo": "MIL-VT",
+                "stars": 66
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "COVID-Transformer: Interpretable COVID-19 Detection Using Vision Transformer for Healthcare Debaditya Shome, T. Kar, Sachi Nandan Mohanty, Prayag Tiwari, Khan Muhammad, Abdullah AlTameem, Yazhou Zhang, Abdul Khader Jilani Saudagar [23rd Sep., 2021] [International Journal of Environmental Research and Public Health, 2021] [PDF",
+              "description": "] [GitHub]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 418437184,
+                "language": null,
+                "last_commit": "2021-10-18T15:12:12Z",
+                "owner": "DebadityaShome",
+                "repo": "COVID-Transformer",
+                "stars": 0
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Is it Time to Replace CNNs with Transformers for Medical Images? Christos Matsoukas, Johan Fredin Haslum, Magnus Söderberg, Kevin Smith [20th Aug., 2021] [ICCV Workshop, 2021] [PDF",
+              "description": "] [GitHub]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 389925943,
+                "language": "Python",
+                "last_commit": "2022-01-12T10:16:03Z",
+                "owner": "ChrisMats",
+                "repo": "medical_transformers",
+                "stars": 113
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "xViTCOS: Explainable Vision Transformer Based COVID-19 Screening Using Radiography Arnab Kumar Mondal, Arnab Bhattacharjee, Parag Singla, A. P. Prathosh [7th Jul., 2021] [IEEE Journal of Translational Engineering in Health and Medicine, 2021] [PDF",
+              "description": "] [Github]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 382620176,
+                "language": "Python",
+                "last_commit": "2021-07-03T18:25:55Z",
+                "owner": "arnabkmondal",
+                "repo": "xViTCOS",
+                "stars": 3
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "COVID-VIT: Classification of COVID-19 from CT chest images based on vision transformer models Xiaohong Gao, Yu Qian, Alice Gao [4th Jul., 2021] [NextComp, 2022] [PDF",
+              "description": "] [GitHub]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 382714761,
+                "language": "Jupyter Notebook",
+                "last_commit": "2024-09-24T12:48:09Z",
+                "owner": "xiaohong1",
+                "repo": "COVID-ViT",
+                "stars": 35
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "TransMIL: Transformer based Correlated Multiple Instance Learning for Whole Slide Image Classification Zhuchen Shao, Hao Bian, Yang Chen, Yifeng Wang, Jian Zhang, Xiangyang Ji, Yongbing Zhang [2nd Jun., 2021] [NeurIPS, 2021] [PDF",
+              "description": "] [GitHub]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 413053070,
+                "language": "Python",
+                "last_commit": "2024-05-03T12:35:09Z",
+                "owner": "szc19990412",
+                "repo": "TransMIL",
+                "stars": 494
+              }
+            }
+          ],
+          "description": "RadioTransformer: A Cascaded Global-Focal Transformer for Visual Attention-guided Disease Classification Moinak Bhattacharya, Shubham Jain, Prateek Prasanna [23rd Feb., 2022] [ECCV, 2022] [PDF]\nFederated Split Vision Transformer for COVID-19 CXR Diagnosis using Task-Agnostic Training Sangjoon Park, Gwanghyun Kim, Jeongsol Kim, Boah Kim, Jong Chul Ye [2nd Nov., 2021] [NeurIPS, 2021] [PDF]\nVision transformer for classification of breast ultrasound images Behnaz Gheflati, Hassan Rivaz [27th Oct., 2021] [EMBC, 2022] [PDF]\n3DMeT: 3D Medical Image Transformer for Knee Cartilage Defect Assessment Sheng Wang, Zixu Zhuang, Kai Xuan, Dahong Qian, Zhong Xue, Jia Xu, Ying Liu, Yiming Chai, Lichi Zhang, Qian Wang, Dinggang Shen [21st Sep., 2021] [MICCAI Workshop, 2021] [PDF]\nVision Transformer for femur fracture classification Leonardo Tanzi, Andrea Audisio, Giansalvo Cirrincione, Alessandro Aprato, Enrico Vezzetti [7th Aug., 2021] [Injury Journal, 2022] [PDF]\nLesion-Aware Transformers for Diabetic Retinopathy Grading Rui Sun, Yihao Li, Tianzhu Zhang, Zhendong Mao, Feng Wu, Yongdong Zhang [1st Jun., 2021] [CVPR, 2021] [PDF]\nPOCFormer: A Lightweight Transformer Architecture for Detection of COVID-19 Using Point of Care Ultrasound Shehan Perera, Srikar Adhikari, Alper Yilmaz [20th May, 2021] [ICIP, 2022] [PDF]\nAutomatic diagnosis of covid-19 using a tailored transformer-like network Chengeng Liu, Qingshan Yin [21st Apr., 2021] [CISAT, 2021] [PDF]\nVision Transformer for COVID-19 CXR Diagnosis using Chest X-ray Feature Corpus Sangjoon Park, Gwanghyun Kim, Yujin Oh, Joon Beom Seo, Sang Min Lee, Jin Hwan Kim, Sungjun Moon, Jae-Kwang Lim, Jong Chul Ye [12th Mar., 2021] [arXiv, 2021] [PDF]\nTransMed: Transformers Advance Multi-modal Medical Image Classification Yin Dai, Yifan Gao [10th Mar., 2021] [Diagnostics, 2021] [PDF]",
+          "node_type": "group",
+          "title": "Image Classification"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "HiFormer: Hierarchical Multi-scale Representations Using Transformers for Medical Image Segmentation Moein Heidari, Amirhossein Kazerouni, Milad Soltany, Reza Azad, Ehsan Khodapanah, Aghdam Julien Cohen-Adad, Dorit Merhof [18th Jul., 2022] [WACV, 2023] [PDF]",
+              "description": "[GitHub]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 488158953,
+                "language": "Jupyter Notebook",
+                "last_commit": "2024-03-22T00:28:20Z",
+                "owner": "amirhossein-kz",
+                "repo": "HiFormer",
+                "stars": 147
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Swin UNETR: Swin Transformers for Semantic Segmentation of Brain Tumors in MRI Images Ali Hatamizadeh, Vishwesh Nath, Yucheng Tang, Dong Yang, Holger Roth, Daguang Xu [4th Jan., 2022] [MICCAI Workshop] [PDF",
+              "description": "] [GitHub]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 296285350,
+                "language": "Python",
+                "last_commit": "2025-10-06T22:41:24Z",
+                "owner": "Project-MONAI",
+                "repo": "research-contributions",
+                "stars": 1220
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Semi-Supervised Medical Image Segmentation via Cross Teaching between CNN and Transformer Xiangde Luo, Minhao Hu, Tao Song, Guotai Wang, Shaoting Zhang [9th Dec., 2021] [MIDL, 2022] [PDF",
+              "description": "] [Github]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 298459550,
+                "language": "Python",
+                "last_commit": "2025-06-07T04:37:09Z",
+                "owner": "HiLab-git",
+                "repo": "SSL4MIS",
+                "stars": 2675
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "MISSFormer: An Effective Medical Image Segmentation Transformer Xiaohong Huang, Zhifang Deng, Dandan Li, Xueguang Yuan [15th Sep., 2021] [TMI Journal, 2022] [PDF]",
+              "description": "[GitHub]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 439756190,
+                "language": "Python",
+                "last_commit": "2023-02-03T02:06:51Z",
+                "owner": "ZhifangDeng",
+                "repo": "MISSFormer",
+                "stars": 119
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "nnFormer: Interleaved Transformer for Volumetric Segmentation Hong-Yu Zhou, Jiansen Guo, Yinghao Zhang, Lequan Yu, Liansheng Wang, Yizhou Yu [7th Sep., 2021] [arXiv, 2021] [PDF]",
+              "description": "[GitHub]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 389026866,
+                "language": "Python",
+                "last_commit": "2022-08-05T06:04:00Z",
+                "owner": "282857341",
+                "repo": "nnFormer",
+                "stars": 788
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Medical Image Segmentation Using Squeeze-and-Expansion Transformers Shaohua Li, Xiuchao Sui, Xiangde Luo, Xinxing Xu, Yong Liu, Rick Goh [20th May, 2021] [IJCAI, 2021] [PDF",
+              "description": "] [GitHub]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 366273328,
+                "language": "Python",
+                "last_commit": "2022-06-15T05:37:59Z",
+                "owner": "askerlee",
+                "repo": "segtran",
+                "stars": 229
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Swin-Unet: Unet-like Pure Transformer for Medical Image Segmentation Hu Cao, Yueyue Wang, Joy Chen, Dongsheng Jiang, Xiaopeng Zhang, Qi Tian, Manning Wang [12th May, 2021] [arXiv, 2021] [PDF",
+              "description": "] [GitHub]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 363852342,
+                "language": "Python",
+                "last_commit": "2025-05-09T08:44:36Z",
+                "owner": "HuCaoFighting",
+                "repo": "Swin-Unet",
+                "stars": 2415
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "UNETR: Transformers for 3D Medical Image Segmentation Ali Hatamizadeh, Yucheng Tang, Vishwesh Nath, Dong Yang, Andriy Myronenko, Bennett Landman, Holger Roth, Daguang Xu [18th Mar., 2021] [WACV, 2022] [PDF",
+              "description": "] [GitHub]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 296285350,
+                "language": "Python",
+                "last_commit": "2025-10-06T22:41:24Z",
+                "owner": "Project-MONAI",
+                "repo": "research-contributions",
+                "stars": 1220
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "TransBTS: Multimodal Brain Tumor Segmentation Using Transformer Jiangyun Li, Wenxuan Wang, Chen Chen, Tianxiang Zhang, Sen Zha, Hong Yu, Jing Wang [7th Mar, 2021] [MICCAI, 2021] [PDF",
+              "description": "] [GitHub]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 344778476,
+                "language": "Python",
+                "last_commit": "2024-03-11T10:27:01Z",
+                "owner": "Rubics-Xuan",
+                "repo": "TransBTS",
+                "stars": 451
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "CoTr: Efficiently Bridging CNN and Transformer for 3D Medical Image Segmentation Yutong Xie, Jianpeng Zhang, Chunhua Shen, Yong Xia [4th Mar., 2021] [MICCAI, 2021] [PDF",
+              "description": "] [GitHub]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 344390337,
+                "language": "Python",
+                "last_commit": "2024-09-17T05:34:21Z",
+                "owner": "YtongXie",
+                "repo": "CoTr",
+                "stars": 334
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Medical Transformer: Gated Axial-Attention for Medical Image Segmentation Jeya Maria Jose Valanarasu, Poojan Oza, Ilker Hacihaliloglu, Vishal M. Patel [21th Feb., 2021] [MICCAI, 2021] [PDF",
+              "description": "] [GitHub]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 338717688,
+                "language": "Python",
+                "last_commit": "2023-02-23T08:42:53Z",
+                "owner": "jeya-maria-jose",
+                "repo": "Medical-Transformer",
+                "stars": 861
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "TransFuse: Fusing Transformers and CNNs for Medical Image Segmentation Yundong Zhang, Huiye Liu, Qiang Hu [16th Feb., 2021] [arXiv, 2021] [PDF",
+              "description": "] [GitHub]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 348328050,
+                "language": "Python",
+                "last_commit": "2022-08-26T14:08:02Z",
+                "owner": "Rayicer",
+                "repo": "TransFuse",
+                "stars": 215
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "TransUNet: Transformers Make Strong Encoders for Medical Image Segmentation Jieneng Chen, Yongyi Lu, Qihang Yu, Xiangde Luo, Ehsan Adeli, Yan Wang, Le Lu, Alan L. Yuille, Yuyin Zhou [8th Feb., 2021] [arXiv, 2021] [PDF",
+              "description": "] [GitHub]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 336978043,
+                "language": "Python",
+                "last_commit": "2026-02-25T04:44:14Z",
+                "owner": "Beckschen",
+                "repo": "TransUNet",
+                "stars": 3233
+              }
+            }
+          ],
+          "description": "Self Pre-training with Masked Autoencoders for Medical Image Analysis Lei Zhou, Huidong Liu, Joseph Bae, Junjun He, Dimitris Samaras, Prateek Prasanna [10th Mar., 2022] [arXiv, 2022] [PDF]\nT-AutoML: Automated Machine Learning for Lesion Segmentation using Transformers in 3D Medical Imaging Dong Yang, Andriy Myronenko, Xiaosong Wang, Ziyue Xu, Holger R. Roth, Daguang Xu [15th Nov., 2021] [ICCV, 2021] [PDF]",
+          "node_type": "group",
+          "title": "Image Segmentation"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "TransCT: Dual-path Transformer for Low Dose Computed Tomography Zhicheng Zhang, Lequan Yu, Xiaokun Liang, Wei Zhao, Lei Xing [28th Feb., 2021] [MICCAI, 2021] [PDF",
+              "description": "] [GitHub]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 342734763,
+                "language": "Python",
+                "last_commit": "2021-06-25T19:09:09Z",
+                "owner": "zzc623",
+                "repo": "TransCT",
+                "stars": 28
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "TED-net: Convolution-free T2T Vision Transformer-based Encoder-decoder Dilation network for Low-dose CT Denoising Dayang Wang, Zhan Wu, Hengyong Yu [8th Jun., 2021] [MICCAI Workshop, 2021][PDF",
+              "description": "] [GitHub]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 376672563,
+                "language": "Python",
+                "last_commit": "2022-04-04T23:45:40Z",
+                "owner": "wdayang",
+                "repo": "CTformer",
+                "stars": 83
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "CTformer: Convolution-free Token2Token Dilated Vision Transformer for Low-dose CT Denoising Dayang Wang, Fenglei Fan, Zhan Wu, Rui Liu, Fei Wang, Hengyong Yu [28th Feb., 2022] [arXiv, 2022][PDF",
+              "description": "] [GitHub]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 376672563,
+                "language": "Python",
+                "last_commit": "2022-04-04T23:45:40Z",
+                "owner": "wdayang",
+                "repo": "CTformer",
+                "stars": 83
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "DuDoTrans: Dual-Domain Transformer Provides More Attention for Sinogram Restoration in Sparse-View CT Reconstruction Ce Wang, Kun Shang, Haimiao Zhang, Qian Li, Yuan Hui, S. Kevin Zhou [21th Nov., 2021] [arXiv, 2021][PDF",
+              "description": "] [GitHub]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 428647499,
+                "language": null,
+                "last_commit": "2021-11-16T12:34:23Z",
+                "owner": "AzureRayBach",
+                "repo": "CODE",
+                "stars": 2
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Fourier Image Transformer Tim-Oliver Buchholz, Florian Jug [6th Apr., 2021] [CVPR, 2022][PDF",
+              "description": "] [GitHub]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 323406520,
+                "language": "Python",
+                "last_commit": "2022-03-23T06:30:05Z",
+                "owner": "juglab",
+                "repo": "FourierImageTransformer",
+                "stars": 101
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Vision Transformers Enable Fast and Robust Accelerated MRI Chun-Mei Feng, Yunlu Yan, Huazhu Fu, Li Chen, Yong Xu [10th Dec., 2021] [MIDL, 2022][PDF",
+              "description": "] [GitHub]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 397374683,
+                "language": "Jupyter Notebook",
+                "last_commit": "2022-03-05T13:23:03Z",
+                "owner": "MLI-lab",
+                "repo": "transformers_for_imaging",
+                "stars": 20
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Task Transformer Network for Joint MRI Reconstruction and Super-Resolution Chun-Mei Feng, Yunlu Yan, Huazhu Fu, Li Chen, Yong Xu [12th Jun., 2021] [MICCAI, 2021][PDF",
+              "description": "] [GitHub]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 366485246,
+                "language": "Python",
+                "last_commit": "2022-11-01T07:21:40Z",
+                "owner": "chunmeifeng",
+                "repo": "T2Net",
+                "stars": 104
+              }
+            }
+          ],
+          "description": "Transformer-based Dual-domain Network for Few-view Dedicated Cardiac SPECT Image Reconstructions Huidong Xie, Bo Zhou, Xiongchao Chen, Xueqi Guo, Stephanie Thorn, Yi-Hwa Liu, Ge Wang, Albert Sinusas, Chi Liu [18th July., 2023] [MICCAI, 2023] [PDF]\nEformer: Edge Enhancement based Transformer for Medical Image Denoising Achleshwar Luthra, Harsh Sulakhe, Tanish Mittal, Abhishek Iyer, Santosh Yadav [16th Sep., 2021] [arXiv, 2021][PDF]\n3D Transformer-GAN for High-Quality PET Reconstruction Yanmei Luo, Yan Wang, Chen Zu, Bo Zhan, Xi Wu, Jiliu Zhou, Dinggang Shen, Luping Zhou [21st Sep., 2021] [MICCAI, 2021][PDF]\nSpatial Adaptive and Transformer Fusion Network (STFNet) for Low-count PET Blind Denoising with MRI Lipei Zhang, Zizheng Xiao, Chao Zhou, Jianmin Yuan, Qiang He, Yongfeng Yang, Xin Liu, Dong Liang, Hairong Zheng, Wei Fan, Xu Zhang, Zhanli Hu [19th Nov., 2021] [Medical Physics, 2021][PDF]\nLow-Dose CT Denoising via Sinogram Inner-Structure Transformer Liutao Yang, Zhongnian Li, Rongjun Ge, Junyong Zhao, Haipeng Si, Daoqiang Zhang [7th Apr., 2022] [IEEE Transactions on Medical Imaging, 2022][PDF]\nDual-domain sparse-view CT reconstruction with Transformers Changrong Shi, Yongshun Xiao, Zhiqiang Chen [22nd Mar., 2022] [ELSEVIER Physica Medica, 2022][PDF]\nAdaptively Re-weighting Multi-Loss Untrained Transformer for Sparse-View Cone-Beam CT Reconstruction Minghui Wu, Yangdi Xu, Yingying Xu, Guangwei Wu, Qingqing Chen, Hongxiang Lin [23th Mar., 2022] [arXiv, 2022][PDF]\nMR Image Super Resolution By Combining Feature Disentanglement CNNs and Vision Transformers Chun-Mei Feng, Yunlu Yan, Huazhu Fu, Li Chen, Yong Xu [9th Dec., 2021] [MIDL, 2022][PDF]\nCross-Modality High-Frequency Transformer for MR Image Super-Resolution Chaowei Fang, Dingwen Zhang, Liang Wang, Yulun Zhang, Lechao Cheng, Junwei Han [29th Mar., 2022] [ACM MM, 2022][PDF]",
+          "node_type": "group",
+          "title": "Image Reconstruction"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "CyTran: Cycle-Consistent Transformers for Non-Contrast to Contrast CT Translation Nicolae-Catalin Ristea, Andreea-Iuliana Miron, Olivian Savencu, Mariana-Iuliana Georgescu, Nicolae Verga, Fahad Shahbaz Khan, Radu Tudor Ionescu [12th Oct., 2021] [arXiv, 2021] [PDF",
+              "description": "] [GitHub]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 405101924,
+                "language": "Python",
+                "last_commit": "2023-04-09T10:38:34Z",
+                "owner": "ristea",
+                "repo": "cycle-transformer",
+                "stars": 40
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ResViT: Residual vision transformers for multi-modal medical image synthesis Onat Dalmaz, Mahmut Yurt, Tolga Çukur [30th Jun., 2021] [TMI Journal, 2021] [PDF",
+              "description": "] [GitHub]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 418492466,
+                "language": "Python",
+                "last_commit": "2023-05-08T13:58:16Z",
+                "owner": "icon-lab",
+                "repo": "ResViT",
+                "stars": 187
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "PTNet: A High-Resolution Infant MRI Synthesizer Based on Transformer Xuzhe Zhang, Xinzi He, Jia Guo, Nabil Ettehadi, Natalie Aw, David Semanek, Jonathan Posner, Andrew Laine, Yun Wang [28th May., 2021] [arXiv, 2021] [PDF",
+              "description": "] [GitHub]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 467762413,
+                "language": "Python",
+                "last_commit": "2024-02-20T15:56:52Z",
+                "owner": "XuzheZ",
+                "repo": "PTNet3D",
+                "stars": 18
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "VTGAN: Semi-supervised Retinal Image Synthesis and Disease Prediction using Vision Transformers Sharif Amit Kamran, Khondker Fariha Hossain, Alireza Tavakkoli, Stewart Lee Zuckerbrod, Salah A. Baker [14th Apr., 2021] [ICCV Workshop, 2021] [PDF",
+              "description": "] [GitHub]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 357859502,
+                "language": "Python",
+                "last_commit": "2022-11-02T07:42:55Z",
+                "owner": "SharifAmit",
+                "repo": "VTGAN",
+                "stars": 1
+              }
+            }
+          ],
+          "description": "One Model to Synthesize Them All: Multi-contrast Multi-scale Transformer for Missing Data Imputation Jiang Liu, Srivathsa Pasumarthi, Ben Duffy, Enhao Gong, Greg Zaharchuk, Keshav Datta [28th Apr., 2022] [arXiv, 2021][PDF]",
+          "node_type": "group",
+          "title": "Image Synthesizing"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Focused Decoding Enables 3D Anatomical Detection by Transformers Bastian Wittmann, Fernando Navarro, Suprosanna Shit, Bjoern Menze [21st Jul., 2022] [arXiv, 2022] [PDF",
+              "description": "] [GitHub]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 416794414,
+                "language": "Python",
+                "last_commit": "2024-07-16T09:32:09Z",
+                "owner": "bwittmann",
+                "repo": "transoar",
+                "stars": 71
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "CellCentroidFormer: Combining Self-attention and Convolution for Cell Detection Royden Wagner, Karl Rohr [1st Jun., 2022] [MIUA, 2022] [PDF",
+              "description": "] [Github]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 480083188,
+                "language": "Python",
+                "last_commit": "2023-02-17T18:28:15Z",
+                "owner": "roydenwa",
+                "repo": "cell-centroid-former",
+                "stars": 5
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Transformer Network for Significant Stenosis Detection in CCTA of Coronary Arteries Xinghua Ma, Gongning Luo, Wei Wang, Kuanquan Wang [7th Jul., 2021] [MICCAI, 2021] [PDF",
+              "description": "] [Github]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 378368863,
+                "language": "Python",
+                "last_commit": "2021-09-27T07:39:52Z",
+                "owner": "XinghuaMa",
+                "repo": "TRNet",
+                "stars": 31
+              }
+            }
+          ],
+          "description": "CT-CAD: Context-Aware Transformers for End-to-End Chest Abnormality Detection on X-Rays Qiran Kong, Yirui Wu, Chi Yuan, Yongli Wang [9th Dec., 2021] [BIBM, 2021] [PDF]\nRDFNet: A Fast Caries Detection Method Incorporating Transformer Mechanism Hao Jiang, Peiliang Zhang, Chao Che, Bo Jin [10th Nov., 2021] [Computational and Mathematical Methods in Medicine Journal, 2021] [PDF]\nSpine-Transformers: Vertebra Detection and Localization in Arbitrary Field-of-View Spine CT with Transformers Rong Tao, Guoyan Zheng [21st Sep., 2021] [MICCAI, 2021] [PDF]\nCOTR: Convolution in Transformer Network for End to End Polyp Detection Zhiqiang Shen, Chaonan Lin, Shaohua Zheng [23rd May, 2021] [ICCC, 2021] [PDF]",
+          "node_type": "group",
+          "title": "Object Detection"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "SVoRT: Iterative Transformer for Slice-to-Volume Registration in Fetal Brain MRI. Junshen Xu, Daniel Moyer, P. Ellen Grant, Polina Golland, Juan Eugenio Iglesias, Elfar Adalsteinsson. [22th Jun., 2022] [MICCAI, 2022] [PDF",
+              "description": "] [GitHub]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 460857953,
+                "language": "Python",
+                "last_commit": "2023-05-11T14:18:35Z",
+                "owner": "daviddmc",
+                "repo": "SVoRT",
+                "stars": 47
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "XMorpher: Full Transformer for Deformable Medical Image Registration via Cross Attention Jiacheng Shi, Yuting He, Youyong Kong, Jean-Louis Coatrieux, Huazhong Shu, Guanyu Yang, Shuo Li [15th Jun., 2022] [MICCAI, 2022] [PDF",
+              "description": "] [GitHub]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 501139374,
+                "language": "Python",
+                "last_commit": "2023-02-26T07:25:54Z",
+                "owner": "Solemoon",
+                "repo": "XMorpher",
+                "stars": 77
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "TransMorph: Transformer for unsupervised medical image registration Junyu Chen, Eric C. Frey, Yufan He, William P. Segars, Ye Li, Yong Du [19th Nov., 2021] [MedIA Journal][PDF",
+              "description": "] [GitHub]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 381832216,
+                "language": "Python",
+                "last_commit": "2025-05-22T20:52:49Z",
+                "owner": "junyuchen245",
+                "repo": "TransMorph_Transformer_for_Medical_Image_Registration",
+                "stars": 632
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ViT-V-Net: Vision Transformer for Unsupervised Volumetric Medical Image Registration Junyu Chen, Yufan He, Eric C. Frey, Ye Li, Yong Du [13th Apr., 2021] [MIDL, 2021] [PDF",
+              "description": "] [GitHub]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 348884734,
+                "language": "Python",
+                "last_commit": "2022-11-06T14:20:04Z",
+                "owner": "junyuchen245",
+                "repo": "ViT-V-Net_for_3D_Image_Registration_Pytorch",
+                "stars": 350
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Affine Medical Image Registration with Coarse-to-Fine Vision Transformer Tony C. W. Mok, Albert C. S. Chung [29th Mar., 2022] [CVPR, 2022] [PDF",
+              "description": "] [GitHub]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 465616993,
+                "language": "Python",
+                "last_commit": "2023-11-02T13:45:28Z",
+                "owner": "cwmok",
+                "repo": "C2FViT",
+                "stars": 155
+              }
+            }
+          ],
+          "description": "Learning dual transformer network for diffeomorphic registration Yungeng Zhang, Yuru Pei & Hongbin Zha [21th Sep., 2021] [MICCAI, 2021] [PDF]",
+          "node_type": "group",
+          "title": "Image Registration"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Cross-modal Memory Networks for Radiology Report Generation Zhihong Chen, Yaling Shen, Yan Song, Xiang Wan [28th Apr., 2022] [ACL-IJCNLP, 2021] [PDF",
+              "description": "] [GitHub]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 467170103,
+                "language": "Python",
+                "last_commit": "2023-08-17T01:30:47Z",
+                "owner": "zhjohnchan",
+                "repo": "R2GenCMN",
+                "stars": 117
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Automated Generation of Accurate & Fluent Medical X-ray Reports Hoang T.N. Nguyen, Dong Nie, Taivanbat Badamdorj, Yujie Liu, Yingying Zhu, Jason Truong, Li Cheng [27th Aug., 2021] [EMNLP, 2021] [PDF",
+              "description": "] [GitHub]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 400387159,
+                "language": "Python",
+                "last_commit": "2023-03-04T02:40:35Z",
+                "owner": "ginobilinie",
+                "repo": "xray_report_generation",
+                "stars": 80
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Progressive Transformer-Based Generation of Radiology Reports Farhad Nooralahzadeh, Nicolas Perez Gonzalez, Thomas Frauenfelder, Koji Fujimoto, Michael Krauthammer [19th Feb., 2021] [EMNLP , 2021] [PDF",
+              "description": "] [GitHub]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 400117515,
+                "language": "Python",
+                "last_commit": "2025-01-05T09:29:51Z",
+                "owner": "uzh-dqbm-cmi",
+                "repo": "ARGON",
+                "stars": 25
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Learning to Generate Clinically Coherent Chest X-Ray Reports Justin Lovelace, Bobak Mortazavi [1st Nov., 2020] [EMNLP, 2020] [PDF",
+              "description": "] [GitHub]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 301483398,
+                "language": "Python",
+                "last_commit": "2020-11-30T21:02:07Z",
+                "owner": "justinlovelace",
+                "repo": "coherent-xray-report-generation",
+                "stars": 9
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Generating Radiology Reports via Memory-driven Transformer Zhihong Chen, Yan Song, Tsung-Hui Chang, Xiang Wan [30th Oct., 2020] [EMNLP, 2020] [PDF",
+              "description": "] [GitHub]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 300518123,
+                "language": "Python",
+                "last_commit": "2024-01-14T10:56:21Z",
+                "owner": "cuhksz-nlp",
+                "repo": "R2Gen",
+                "stars": 207
+              }
+            }
+          ],
+          "description": "AlignTransformer: Hierarchical Alignment of Visual Regions and Disease Tags for Medical Report Generation Di You, Fenglin Liu, Shen Ge, Xiaoxia Xie, Jing Zhang, Xian Wu [18th Mar., 2022] [MICCAI, 2021] [PDF]\nMedical-vlbert: Medical visual language bert for covid-19 ct report generation with alternate learning Guangyi Liu, Yinghong Liao, Fuyu Wang, Bin Zhang, Lu Zhang, Xiaodan Liang, Xiang Wan, Shaolin Li, Zhen Li, Shuixing Zhang, Shuguang Cui [11th Aug., 2021] [IEEE Transactions on Neural Networks and Learning Systems, 2021] [PDF]\nSurgical Instruction Generation with Transformers Jinglu Zhang, Yinyu Nie, Jian Chang, Jian Jun Zhang [14th Jul., 2021] [MICCAI, 2021] [PDF]\nTrust It or Not: Confidence-Guided Automatic Radiology Report Generation Yixin Wang, Zihao Lin, Zhe Xu, Haoyu Dong, Jiang Tian, Jie Luo, Zhongchao Shi, Yang Zhang, Jianping Fan, Zhiqiang He [21st Jun., 2021] [arXiv , 2021] [PDF]\nExploring and Distilling Posterior and Prior Knowledge for Radiology Report Generation Fenglin Liu, Xian Wu, Shen Ge, Wei Fan, Yuexian Zou [13th Jun., 2021] [CVPR, 2021] [PDF]\nReinforced Transformer for Medical Image Captioning Yuxuan Xiong, Bo Du, Pingkun Yan [10th Oct., 2019][MICCAI Workshop, 2019] [PDF]\nKnowledge-driven Encode, Retrieve, Paraphrase for Medical Image Report Generation Christy Y. Li, Xiaodan Liang, Zhiting Hu, Eric P. Xing [25th Mar., 2019] [AAAI, 2019] [PDF]",
+          "node_type": "group",
+          "title": "Report Generation"
+        }
+      ],
+      "title": "Papers"
+    }
+  ],
   "metadata": {
-    "last_updated": "2026-08-24T10:55:08.001Z",
+    "last_updated": "2026-08-24T14:32:17.528Z",
     "original_repository": "xmindflow/Awesome-Transformer-in-Medical-Imaging",
     "original_repository_id": 469519019,
     "original_repository_sha": "23b7602ca8e1d9f33bf6b2a9f37bebaf7e2db6d5",

@@ -197,7 +197,7 @@
 **TransBTS: Multimodal Brain Tumor Segmentation Using Transformer**<br>
 *Jiangyun Li, Wenxuan Wang, Chen Chen, Tianxiang Zhang, Sen Zha, Hong Yu, Jing Wang*<br>
 \[7th Mar, 2021] \[MICCAI, 2021] \
-\[[PDF](https://arxiv.org/abs/2103.04430)] \[[GitHub](https://github.com/Wenxuan-1119/TransBTS) ⭐ 450 | 🐛 37 | 🌐 Python | 📅 2024-03-11]
+\[[PDF](https://arxiv.org/abs/2103.04430)] \[[GitHub](https://github.com/Wenxuan-1119/TransBTS) ⭐ 451 | 🐛 37 | 🌐 Python | 📅 2024-03-11]
 
 **CoTr: Efficiently Bridging CNN and Transformer for 3D Medical Image Segmentation**  <br>
 *Yutong Xie, Jianpeng Zhang, Chunhua Shen, Yong Xia* <br>
