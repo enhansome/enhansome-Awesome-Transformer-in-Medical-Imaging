@@ -234,7 +234,7 @@
                 "last_commit": "2025-05-09T08:44:36Z",
                 "owner": "HuCaoFighting",
                 "repo": "Swin-Unet",
-                "stars": 2415
+                "stars": 2416
               }
             },
             {
@@ -324,7 +324,7 @@
                 "last_commit": "2026-02-25T04:44:14Z",
                 "owner": "Beckschen",
                 "repo": "TransUNet",
-                "stars": 3233
+                "stars": 3234
               }
             }
           ],
@@ -732,7 +732,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:32:17.528Z",
+    "last_updated": "2026-08-25T06:22:41.402Z",
     "original_repository": "xmindflow/Awesome-Transformer-in-Medical-Imaging",
     "original_repository_id": 469519019,
     "original_repository_sha": "23b7602ca8e1d9f33bf6b2a9f37bebaf7e2db6d5",
