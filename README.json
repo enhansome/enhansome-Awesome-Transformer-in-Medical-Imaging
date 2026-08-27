@@ -47,7 +47,7 @@
                 "last_commit": "2021-11-27T01:24:02Z",
                 "owner": "greentreeys",
                 "repo": "MIL-VT",
-                "stars": 66
+                "stars": 67
               }
             },
             {
@@ -174,7 +174,7 @@
                 "last_commit": "2025-06-07T04:37:09Z",
                 "owner": "HiLab-git",
                 "repo": "SSL4MIS",
-                "stars": 2675
+                "stars": 2676
               }
             },
             {
@@ -525,7 +525,7 @@
                 "last_commit": "2024-07-16T09:32:09Z",
                 "owner": "bwittmann",
                 "repo": "transoar",
-                "stars": 71
+                "stars": 72
               }
             },
             {
@@ -659,7 +659,7 @@
                 "last_commit": "2023-08-17T01:30:47Z",
                 "owner": "zhjohnchan",
                 "repo": "R2GenCMN",
-                "stars": 117
+                "stars": 118
               }
             },
             {
@@ -732,9 +732,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T10:52:46.813Z",
-    "original_repository": "xmindflow/Awesome-Transformer-in-Medical-Imaging",
-    "original_repository_id": 469519019,
+    "last_updated": "2026-08-27T11:26:08.111Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 469519019,
+      "language": null,
+      "last_commit": "2023-11-10T07:19:51Z",
+      "owner": "xmindflow",
+      "repo": "Awesome-Transformer-in-Medical-Imaging",
+      "stars": 223
+    },
     "original_repository_sha": "23b7602ca8e1d9f33bf6b2a9f37bebaf7e2db6d5",
     "enhanced_repository": "enhansome/enhansome-Awesome-Transformer-in-Medical-Imaging",
     "enhanced_repository_description": null,

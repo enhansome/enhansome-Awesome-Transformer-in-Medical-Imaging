@@ -73,7 +73,7 @@
 **MIL-VT: Multiple Instance Learning Enhanced Vision Transformer for Fundus Image Classification** <br>
 *Shuang Yu, Kai Ma, Qi Bi, Cheng Bian, Munan Ning, Nanjun He, Yuexiang Li, Hanruo Liu, Yefeng Zheng*<br>
 \[21st Sep., 2021] \[MICCAI, 2021] \
-\[[PDF](https://link.springer.com/chapter/10.1007/978-3-030-87237-3_5)] \[[GitHub](https://github.com/greentreeys/MIL-VT) ⭐ 66 | 🐛 10 | 🌐 Python | 📅 2021-11-27]
+\[[PDF](https://link.springer.com/chapter/10.1007/978-3-030-87237-3_5)] \[[GitHub](https://github.com/greentreeys/MIL-VT) ⭐ 67 | 🐛 10 | 🌐 Python | 📅 2021-11-27]
 
 **3DMeT: 3D Medical Image Transformer for Knee Cartilage Defect Assessment** <br>
 *Sheng Wang, Zixu Zhuang, Kai Xuan, Dahong Qian, Zhong Xue, Jia Xu, Ying Liu, Yiming Chai, Lichi Zhang, Qian Wang, Dinggang Shen*<br>
@@ -162,7 +162,7 @@
 **Semi-Supervised Medical Image Segmentation via Cross Teaching between CNN and Transformer**<br>
 *Xiangde Luo, Minhao Hu, Tao Song, Guotai Wang, Shaoting Zhang*<br>
 \[9th Dec., 2021] \[MIDL, 2022] \
-\[[PDF](https://arxiv.org/abs/2112.04894)] \[[Github](https://github.com/HiLab-git/SSL4MIS) ⭐ 2,675 | 🐛 36 | 🌐 Python | 📅 2025-06-07]
+\[[PDF](https://arxiv.org/abs/2112.04894)] \[[Github](https://github.com/HiLab-git/SSL4MIS) ⭐ 2,676 | 🐛 36 | 🌐 Python | 📅 2025-06-07]
 
 **T-AutoML: Automated Machine Learning for Lesion Segmentation using Transformers in 3D Medical Imaging**<br>
 *Dong Yang, Andriy Myronenko, Xiaosong Wang, Ziyue Xu, Holger R. Roth, Daguang Xu*<br>
@@ -339,7 +339,7 @@
 **Focused Decoding Enables 3D Anatomical Detection by Transformers**<br>
 *Bastian Wittmann, Fernando Navarro, Suprosanna Shit, Bjoern Menze*<br>
 \[21st Jul., 2022] \[arXiv, 2022] \
-\[[PDF](https://arxiv.org/abs/2207.10774)] \[[GitHub](https://github.com/bwittmann/transoar) ⭐ 71 | 🐛 0 | 🌐 Python | 📅 2024-07-16]
+\[[PDF](https://arxiv.org/abs/2207.10774)] \[[GitHub](https://github.com/bwittmann/transoar) ⭐ 72 | 🐛 0 | 🌐 Python | 📅 2024-07-16]
 
 **CellCentroidFormer: Combining Self-attention and Convolution for Cell Detection**<br>
 *Royden Wagner, Karl Rohr*<br>
@@ -412,7 +412,7 @@
 **Cross-modal Memory Networks for Radiology Report Generation** <br>
 *Zhihong Chen, Yaling Shen, Yan Song, Xiang Wan*<br>
 \[28th Apr., 2022] \[ACL-IJCNLP, 2021] \
-\[[PDF](https://arxiv.org/abs/2204.13258)] \[[GitHub](https://github.com/zhjohnchan/R2GenCMN) ⭐ 117 | 🐛 5 | 🌐 Python | 📅 2023-08-17]
+\[[PDF](https://arxiv.org/abs/2204.13258)] \[[GitHub](https://github.com/zhjohnchan/R2GenCMN) ⭐ 118 | 🐛 5 | 🌐 Python | 📅 2023-08-17]
 
 **AlignTransformer: Hierarchical Alignment of Visual Regions and Disease Tags for Medical Report Generation** <br>
 *Di You, Fenglin Liu, Shen Ge, Xiaoxia Xie, Jing Zhang, Xian Wu*<br>
@@ -471,4 +471,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-26._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-27._
