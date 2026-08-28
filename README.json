@@ -18,7 +18,8 @@
                 "owner": "sacmehta",
                 "repo": "HATNet",
                 "stars": 29
-              }
+              },
+              "first_seen": "2026-08-28T21:11:32.809Z"
             },
             {
               "node_type": "item",
@@ -33,7 +34,8 @@
                 "owner": "vkola-lab",
                 "repo": "tmi2022",
                 "stars": 181
-              }
+              },
+              "first_seen": "2026-08-28T21:11:32.809Z"
             },
             {
               "node_type": "item",
@@ -48,7 +50,8 @@
                 "owner": "greentreeys",
                 "repo": "MIL-VT",
                 "stars": 67
-              }
+              },
+              "first_seen": "2026-08-28T21:11:32.809Z"
             },
             {
               "node_type": "item",
@@ -63,7 +66,8 @@
                 "owner": "DebadityaShome",
                 "repo": "COVID-Transformer",
                 "stars": 0
-              }
+              },
+              "first_seen": "2026-08-28T21:11:32.809Z"
             },
             {
               "node_type": "item",
@@ -78,7 +82,8 @@
                 "owner": "ChrisMats",
                 "repo": "medical_transformers",
                 "stars": 113
-              }
+              },
+              "first_seen": "2026-08-28T21:11:32.809Z"
             },
             {
               "node_type": "item",
@@ -93,7 +98,8 @@
                 "owner": "arnabkmondal",
                 "repo": "xViTCOS",
                 "stars": 3
-              }
+              },
+              "first_seen": "2026-08-28T21:11:32.809Z"
             },
             {
               "node_type": "item",
@@ -108,7 +114,8 @@
                 "owner": "xiaohong1",
                 "repo": "COVID-ViT",
                 "stars": 35
-              }
+              },
+              "first_seen": "2026-08-28T21:11:32.809Z"
             },
             {
               "node_type": "item",
@@ -123,7 +130,8 @@
                 "owner": "szc19990412",
                 "repo": "TransMIL",
                 "stars": 494
-              }
+              },
+              "first_seen": "2026-08-28T21:11:32.809Z"
             }
           ],
           "description": "RadioTransformer: A Cascaded Global-Focal Transformer for Visual Attention-guided Disease Classification Moinak Bhattacharya, Shubham Jain, Prateek Prasanna [23rd Feb., 2022] [ECCV, 2022] [PDF]\nFederated Split Vision Transformer for COVID-19 CXR Diagnosis using Task-Agnostic Training Sangjoon Park, Gwanghyun Kim, Jeongsol Kim, Boah Kim, Jong Chul Ye [2nd Nov., 2021] [NeurIPS, 2021] [PDF]\nVision transformer for classification of breast ultrasound images Behnaz Gheflati, Hassan Rivaz [27th Oct., 2021] [EMBC, 2022] [PDF]\n3DMeT: 3D Medical Image Transformer for Knee Cartilage Defect Assessment Sheng Wang, Zixu Zhuang, Kai Xuan, Dahong Qian, Zhong Xue, Jia Xu, Ying Liu, Yiming Chai, Lichi Zhang, Qian Wang, Dinggang Shen [21st Sep., 2021] [MICCAI Workshop, 2021] [PDF]\nVision Transformer for femur fracture classification Leonardo Tanzi, Andrea Audisio, Giansalvo Cirrincione, Alessandro Aprato, Enrico Vezzetti [7th Aug., 2021] [Injury Journal, 2022] [PDF]\nLesion-Aware Transformers for Diabetic Retinopathy Grading Rui Sun, Yihao Li, Tianzhu Zhang, Zhendong Mao, Feng Wu, Yongdong Zhang [1st Jun., 2021] [CVPR, 2021] [PDF]\nPOCFormer: A Lightweight Transformer Architecture for Detection of COVID-19 Using Point of Care Ultrasound Shehan Perera, Srikar Adhikari, Alper Yilmaz [20th May, 2021] [ICIP, 2022] [PDF]\nAutomatic diagnosis of covid-19 using a tailored transformer-like network Chengeng Liu, Qingshan Yin [21st Apr., 2021] [CISAT, 2021] [PDF]\nVision Transformer for COVID-19 CXR Diagnosis using Chest X-ray Feature Corpus Sangjoon Park, Gwanghyun Kim, Yujin Oh, Joon Beom Seo, Sang Min Lee, Jin Hwan Kim, Sungjun Moon, Jae-Kwang Lim, Jong Chul Ye [12th Mar., 2021] [arXiv, 2021] [PDF]\nTransMed: Transformers Advance Multi-modal Medical Image Classification Yin Dai, Yifan Gao [10th Mar., 2021] [Diagnostics, 2021] [PDF]",
@@ -145,7 +153,8 @@
                 "owner": "amirhossein-kz",
                 "repo": "HiFormer",
                 "stars": 147
-              }
+              },
+              "first_seen": "2026-08-28T21:11:32.809Z"
             },
             {
               "node_type": "item",
@@ -160,7 +169,8 @@
                 "owner": "Project-MONAI",
                 "repo": "research-contributions",
                 "stars": 1220
-              }
+              },
+              "first_seen": "2026-08-28T21:11:32.809Z"
             },
             {
               "node_type": "item",
@@ -174,8 +184,9 @@
                 "last_commit": "2025-06-07T04:37:09Z",
                 "owner": "HiLab-git",
                 "repo": "SSL4MIS",
-                "stars": 2676
-              }
+                "stars": 2677
+              },
+              "first_seen": "2026-08-28T21:11:32.809Z"
             },
             {
               "node_type": "item",
@@ -190,7 +201,8 @@
                 "owner": "ZhifangDeng",
                 "repo": "MISSFormer",
                 "stars": 119
-              }
+              },
+              "first_seen": "2026-08-28T21:11:32.809Z"
             },
             {
               "node_type": "item",
@@ -205,7 +217,8 @@
                 "owner": "282857341",
                 "repo": "nnFormer",
                 "stars": 788
-              }
+              },
+              "first_seen": "2026-08-28T21:11:32.809Z"
             },
             {
               "node_type": "item",
@@ -220,7 +233,8 @@
                 "owner": "askerlee",
                 "repo": "segtran",
                 "stars": 229
-              }
+              },
+              "first_seen": "2026-08-28T21:11:32.809Z"
             },
             {
               "node_type": "item",
@@ -235,7 +249,8 @@
                 "owner": "HuCaoFighting",
                 "repo": "Swin-Unet",
                 "stars": 2416
-              }
+              },
+              "first_seen": "2026-08-28T21:11:32.809Z"
             },
             {
               "node_type": "item",
@@ -250,7 +265,8 @@
                 "owner": "Project-MONAI",
                 "repo": "research-contributions",
                 "stars": 1220
-              }
+              },
+              "first_seen": "2026-08-28T21:11:32.809Z"
             },
             {
               "node_type": "item",
@@ -265,7 +281,8 @@
                 "owner": "Rubics-Xuan",
                 "repo": "TransBTS",
                 "stars": 451
-              }
+              },
+              "first_seen": "2026-08-28T21:11:32.809Z"
             },
             {
               "node_type": "item",
@@ -280,7 +297,8 @@
                 "owner": "YtongXie",
                 "repo": "CoTr",
                 "stars": 334
-              }
+              },
+              "first_seen": "2026-08-28T21:11:32.809Z"
             },
             {
               "node_type": "item",
@@ -295,7 +313,8 @@
                 "owner": "jeya-maria-jose",
                 "repo": "Medical-Transformer",
                 "stars": 861
-              }
+              },
+              "first_seen": "2026-08-28T21:11:32.809Z"
             },
             {
               "node_type": "item",
@@ -310,7 +329,8 @@
                 "owner": "Rayicer",
                 "repo": "TransFuse",
                 "stars": 215
-              }
+              },
+              "first_seen": "2026-08-28T21:11:32.809Z"
             },
             {
               "node_type": "item",
@@ -325,7 +345,8 @@
                 "owner": "Beckschen",
                 "repo": "TransUNet",
                 "stars": 3234
-              }
+              },
+              "first_seen": "2026-08-28T21:11:32.809Z"
             }
           ],
           "description": "Self Pre-training with Masked Autoencoders for Medical Image Analysis Lei Zhou, Huidong Liu, Joseph Bae, Junjun He, Dimitris Samaras, Prateek Prasanna [10th Mar., 2022] [arXiv, 2022] [PDF]\nT-AutoML: Automated Machine Learning for Lesion Segmentation using Transformers in 3D Medical Imaging Dong Yang, Andriy Myronenko, Xiaosong Wang, Ziyue Xu, Holger R. Roth, Daguang Xu [15th Nov., 2021] [ICCV, 2021] [PDF]",
@@ -347,7 +368,8 @@
                 "owner": "zzc623",
                 "repo": "TransCT",
                 "stars": 28
-              }
+              },
+              "first_seen": "2026-08-28T21:11:32.809Z"
             },
             {
               "node_type": "item",
@@ -362,7 +384,8 @@
                 "owner": "wdayang",
                 "repo": "CTformer",
                 "stars": 83
-              }
+              },
+              "first_seen": "2026-08-28T21:11:32.809Z"
             },
             {
               "node_type": "item",
@@ -377,7 +400,8 @@
                 "owner": "wdayang",
                 "repo": "CTformer",
                 "stars": 83
-              }
+              },
+              "first_seen": "2026-08-28T21:11:32.809Z"
             },
             {
               "node_type": "item",
@@ -392,7 +416,8 @@
                 "owner": "AzureRayBach",
                 "repo": "CODE",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-28T21:11:32.809Z"
             },
             {
               "node_type": "item",
@@ -407,7 +432,8 @@
                 "owner": "juglab",
                 "repo": "FourierImageTransformer",
                 "stars": 101
-              }
+              },
+              "first_seen": "2026-08-28T21:11:32.809Z"
             },
             {
               "node_type": "item",
@@ -422,7 +448,8 @@
                 "owner": "MLI-lab",
                 "repo": "transformers_for_imaging",
                 "stars": 20
-              }
+              },
+              "first_seen": "2026-08-28T21:11:32.809Z"
             },
             {
               "node_type": "item",
@@ -437,7 +464,8 @@
                 "owner": "chunmeifeng",
                 "repo": "T2Net",
                 "stars": 104
-              }
+              },
+              "first_seen": "2026-08-28T21:11:32.809Z"
             }
           ],
           "description": "Transformer-based Dual-domain Network for Few-view Dedicated Cardiac SPECT Image Reconstructions Huidong Xie, Bo Zhou, Xiongchao Chen, Xueqi Guo, Stephanie Thorn, Yi-Hwa Liu, Ge Wang, Albert Sinusas, Chi Liu [18th July., 2023] [MICCAI, 2023] [PDF]\nEformer: Edge Enhancement based Transformer for Medical Image Denoising Achleshwar Luthra, Harsh Sulakhe, Tanish Mittal, Abhishek Iyer, Santosh Yadav [16th Sep., 2021] [arXiv, 2021][PDF]\n3D Transformer-GAN for High-Quality PET Reconstruction Yanmei Luo, Yan Wang, Chen Zu, Bo Zhan, Xi Wu, Jiliu Zhou, Dinggang Shen, Luping Zhou [21st Sep., 2021] [MICCAI, 2021][PDF]\nSpatial Adaptive and Transformer Fusion Network (STFNet) for Low-count PET Blind Denoising with MRI Lipei Zhang, Zizheng Xiao, Chao Zhou, Jianmin Yuan, Qiang He, Yongfeng Yang, Xin Liu, Dong Liang, Hairong Zheng, Wei Fan, Xu Zhang, Zhanli Hu [19th Nov., 2021] [Medical Physics, 2021][PDF]\nLow-Dose CT Denoising via Sinogram Inner-Structure Transformer Liutao Yang, Zhongnian Li, Rongjun Ge, Junyong Zhao, Haipeng Si, Daoqiang Zhang [7th Apr., 2022] [IEEE Transactions on Medical Imaging, 2022][PDF]\nDual-domain sparse-view CT reconstruction with Transformers Changrong Shi, Yongshun Xiao, Zhiqiang Chen [22nd Mar., 2022] [ELSEVIER Physica Medica, 2022][PDF]\nAdaptively Re-weighting Multi-Loss Untrained Transformer for Sparse-View Cone-Beam CT Reconstruction Minghui Wu, Yangdi Xu, Yingying Xu, Guangwei Wu, Qingqing Chen, Hongxiang Lin [23th Mar., 2022] [arXiv, 2022][PDF]\nMR Image Super Resolution By Combining Feature Disentanglement CNNs and Vision Transformers Chun-Mei Feng, Yunlu Yan, Huazhu Fu, Li Chen, Yong Xu [9th Dec., 2021] [MIDL, 2022][PDF]\nCross-Modality High-Frequency Transformer for MR Image Super-Resolution Chaowei Fang, Dingwen Zhang, Liang Wang, Yulun Zhang, Lechao Cheng, Junwei Han [29th Mar., 2022] [ACM MM, 2022][PDF]",
@@ -459,7 +487,8 @@
                 "owner": "ristea",
                 "repo": "cycle-transformer",
                 "stars": 40
-              }
+              },
+              "first_seen": "2026-08-28T21:11:32.809Z"
             },
             {
               "node_type": "item",
@@ -474,7 +503,8 @@
                 "owner": "icon-lab",
                 "repo": "ResViT",
                 "stars": 187
-              }
+              },
+              "first_seen": "2026-08-28T21:11:32.809Z"
             },
             {
               "node_type": "item",
@@ -489,7 +519,8 @@
                 "owner": "XuzheZ",
                 "repo": "PTNet3D",
                 "stars": 18
-              }
+              },
+              "first_seen": "2026-08-28T21:11:32.809Z"
             },
             {
               "node_type": "item",
@@ -504,7 +535,8 @@
                 "owner": "SharifAmit",
                 "repo": "VTGAN",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T21:11:32.809Z"
             }
           ],
           "description": "One Model to Synthesize Them All: Multi-contrast Multi-scale Transformer for Missing Data Imputation Jiang Liu, Srivathsa Pasumarthi, Ben Duffy, Enhao Gong, Greg Zaharchuk, Keshav Datta [28th Apr., 2022] [arXiv, 2021][PDF]",
@@ -526,7 +558,8 @@
                 "owner": "bwittmann",
                 "repo": "transoar",
                 "stars": 72
-              }
+              },
+              "first_seen": "2026-08-28T21:11:32.809Z"
             },
             {
               "node_type": "item",
@@ -541,7 +574,8 @@
                 "owner": "roydenwa",
                 "repo": "cell-centroid-former",
                 "stars": 5
-              }
+              },
+              "first_seen": "2026-08-28T21:11:32.809Z"
             },
             {
               "node_type": "item",
@@ -556,7 +590,8 @@
                 "owner": "XinghuaMa",
                 "repo": "TRNet",
                 "stars": 31
-              }
+              },
+              "first_seen": "2026-08-28T21:11:32.809Z"
             }
           ],
           "description": "CT-CAD: Context-Aware Transformers for End-to-End Chest Abnormality Detection on X-Rays Qiran Kong, Yirui Wu, Chi Yuan, Yongli Wang [9th Dec., 2021] [BIBM, 2021] [PDF]\nRDFNet: A Fast Caries Detection Method Incorporating Transformer Mechanism Hao Jiang, Peiliang Zhang, Chao Che, Bo Jin [10th Nov., 2021] [Computational and Mathematical Methods in Medicine Journal, 2021] [PDF]\nSpine-Transformers: Vertebra Detection and Localization in Arbitrary Field-of-View Spine CT with Transformers Rong Tao, Guoyan Zheng [21st Sep., 2021] [MICCAI, 2021] [PDF]\nCOTR: Convolution in Transformer Network for End to End Polyp Detection Zhiqiang Shen, Chaonan Lin, Shaohua Zheng [23rd May, 2021] [ICCC, 2021] [PDF]",
@@ -578,7 +613,8 @@
                 "owner": "daviddmc",
                 "repo": "SVoRT",
                 "stars": 47
-              }
+              },
+              "first_seen": "2026-08-28T21:11:32.809Z"
             },
             {
               "node_type": "item",
@@ -593,7 +629,8 @@
                 "owner": "Solemoon",
                 "repo": "XMorpher",
                 "stars": 77
-              }
+              },
+              "first_seen": "2026-08-28T21:11:32.809Z"
             },
             {
               "node_type": "item",
@@ -608,7 +645,8 @@
                 "owner": "junyuchen245",
                 "repo": "TransMorph_Transformer_for_Medical_Image_Registration",
                 "stars": 632
-              }
+              },
+              "first_seen": "2026-08-28T21:11:32.809Z"
             },
             {
               "node_type": "item",
@@ -623,7 +661,8 @@
                 "owner": "junyuchen245",
                 "repo": "ViT-V-Net_for_3D_Image_Registration_Pytorch",
                 "stars": 350
-              }
+              },
+              "first_seen": "2026-08-28T21:11:32.809Z"
             },
             {
               "node_type": "item",
@@ -638,7 +677,8 @@
                 "owner": "cwmok",
                 "repo": "C2FViT",
                 "stars": 155
-              }
+              },
+              "first_seen": "2026-08-28T21:11:32.809Z"
             }
           ],
           "description": "Learning dual transformer network for diffeomorphic registration Yungeng Zhang, Yuru Pei & Hongbin Zha [21th Sep., 2021] [MICCAI, 2021] [PDF]",
@@ -660,7 +700,8 @@
                 "owner": "zhjohnchan",
                 "repo": "R2GenCMN",
                 "stars": 118
-              }
+              },
+              "first_seen": "2026-08-28T21:11:32.809Z"
             },
             {
               "node_type": "item",
@@ -675,7 +716,8 @@
                 "owner": "ginobilinie",
                 "repo": "xray_report_generation",
                 "stars": 80
-              }
+              },
+              "first_seen": "2026-08-28T21:11:32.809Z"
             },
             {
               "node_type": "item",
@@ -690,7 +732,8 @@
                 "owner": "uzh-dqbm-cmi",
                 "repo": "ARGON",
                 "stars": 25
-              }
+              },
+              "first_seen": "2026-08-28T21:11:32.809Z"
             },
             {
               "node_type": "item",
@@ -705,7 +748,8 @@
                 "owner": "justinlovelace",
                 "repo": "coherent-xray-report-generation",
                 "stars": 9
-              }
+              },
+              "first_seen": "2026-08-28T21:11:32.809Z"
             },
             {
               "node_type": "item",
@@ -720,7 +764,8 @@
                 "owner": "cuhksz-nlp",
                 "repo": "R2Gen",
                 "stars": 207
-              }
+              },
+              "first_seen": "2026-08-28T21:11:32.809Z"
             }
           ],
           "description": "AlignTransformer: Hierarchical Alignment of Visual Regions and Disease Tags for Medical Report Generation Di You, Fenglin Liu, Shen Ge, Xiaoxia Xie, Jing Zhang, Xian Wu [18th Mar., 2022] [MICCAI, 2021] [PDF]\nMedical-vlbert: Medical visual language bert for covid-19 ct report generation with alternate learning Guangyi Liu, Yinghong Liao, Fuyu Wang, Bin Zhang, Lu Zhang, Xiaodan Liang, Xiang Wan, Shaolin Li, Zhen Li, Shuixing Zhang, Shuguang Cui [11th Aug., 2021] [IEEE Transactions on Neural Networks and Learning Systems, 2021] [PDF]\nSurgical Instruction Generation with Transformers Jinglu Zhang, Yinyu Nie, Jian Chang, Jian Jun Zhang [14th Jul., 2021] [MICCAI, 2021] [PDF]\nTrust It or Not: Confidence-Guided Automatic Radiology Report Generation Yixin Wang, Zihao Lin, Zhe Xu, Haoyu Dong, Jiang Tian, Jie Luo, Zhongchao Shi, Yang Zhang, Jianping Fan, Zhiqiang He [21st Jun., 2021] [arXiv , 2021] [PDF]\nExploring and Distilling Posterior and Prior Knowledge for Radiology Report Generation Fenglin Liu, Xian Wu, Shen Ge, Wei Fan, Yuexian Zou [13th Jun., 2021] [CVPR, 2021] [PDF]\nReinforced Transformer for Medical Image Captioning Yuxuan Xiong, Bo Du, Pingkun Yan [10th Oct., 2019][MICCAI Workshop, 2019] [PDF]\nKnowledge-driven Encode, Retrieve, Paraphrase for Medical Image Report Generation Christy Y. Li, Xiaodan Liang, Zhiting Hu, Eric P. Xing [25th Mar., 2019] [AAAI, 2019] [PDF]",
@@ -732,7 +777,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T20:32:53.753Z",
+    "last_updated": "2026-08-28T21:11:32.809Z",
     "original_repository_info": {
       "archived": false,
       "id": 469519019,
