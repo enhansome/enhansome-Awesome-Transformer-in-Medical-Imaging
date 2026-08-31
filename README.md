@@ -53,7 +53,7 @@
 **A graph-transformer for whole slide image classification** <br>
 *Yi Zheng, Rushin H. Gindra, Emily J. Green, Eric J. Burks, Margrit Betke, Jennifer E. Beane, Vijaya B. Kolachalama*<br>
 \[19th May, 2022] \[TMI Journal, 2022] \
-\[[PDF](https://arxiv.org/abs/2205.09671)] \[[GitHub](https://github.com/vkola-lab/tmi2022) ⭐ 181 | 🐛 4 | 🌐 Python | 📅 2024-06-17]
+\[[PDF](https://arxiv.org/abs/2205.09671)] \[[GitHub](https://github.com/vkola-lab/tmi2022) ⭐ 182 | 🐛 4 | 🌐 Python | 📅 2024-06-17]
 
 **RadioTransformer: A Cascaded Global-Focal Transformer for Visual Attention-guided Disease Classification** <br>
 *Moinak Bhattacharya, Shubham Jain, Prateek Prasanna*<br>
@@ -162,7 +162,7 @@
 **Semi-Supervised Medical Image Segmentation via Cross Teaching between CNN and Transformer**<br>
 *Xiangde Luo, Minhao Hu, Tao Song, Guotai Wang, Shaoting Zhang*<br>
 \[9th Dec., 2021] \[MIDL, 2022] \
-\[[PDF](https://arxiv.org/abs/2112.04894)] \[[Github](https://github.com/HiLab-git/SSL4MIS) ⭐ 2,679 | 🐛 36 | 🌐 Python | 📅 2025-06-07]
+\[[PDF](https://arxiv.org/abs/2112.04894)] \[[Github](https://github.com/HiLab-git/SSL4MIS) ⭐ 2,680 | 🐛 36 | 🌐 Python | 📅 2025-06-07]
 
 **T-AutoML: Automated Machine Learning for Lesion Segmentation using Transformers in 3D Medical Imaging**<br>
 *Dong Yang, Andriy Myronenko, Xiaosong Wang, Ziyue Xu, Holger R. Roth, Daguang Xu*<br>
@@ -471,4 +471,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-30._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-31._
