@@ -505,7 +505,7 @@
                 "language": "Python",
                 "license": null,
                 "last_commit": "2021-06-25T19:09:09Z",
-                "open_issues": 2,
+                "open_issues": 1,
                 "owner": "zzc623",
                 "repo": "TransCT",
                 "stars": 28,
@@ -1079,7 +1079,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-31T17:38:19.444Z",
+    "last_updated": "2026-09-01T14:55:36.963Z",
     "original_repository_info": {
       "archived": false,
       "description": "[MedIA Journal] An ultimately comprehensive paper list of Vision Transformer/Attention, including papers, codes, and related websites",

@@ -1,6 +1,6 @@
 # Awesome Advances in Medical Image Analysis with Vision Transformers: A Comprehensive Review with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/hee9joon/Awesome-Diffusion-Models) ⭐ 12,364 | 🐛 27 | 🌐 HTML | 📅 2024-08-01
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/hee9joon/Awesome-Diffusion-Models) ⭐ 12,365 | 🐛 27 | 🌐 HTML | 📅 2024-08-01
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 
 :fire::fire:This is a collection of awesome articles about Transformer models in medical imaging :fire::fire:
@@ -231,7 +231,7 @@
 **TransCT: Dual-path Transformer for Low Dose Computed Tomography** <br>
 *Zhicheng Zhang, Lequan Yu, Xiaokun Liang, Wei Zhao, Lei Xing*<br>
 \[28th Feb., 2021] \[MICCAI, 2021] \
-\[[PDF](https://arxiv.org/abs/2103.00634)] \[[GitHub](https://github.com/zzc623/TransCT) ⭐ 28 | 🐛 2 | 🌐 Python | 📅 2021-06-25]
+\[[PDF](https://arxiv.org/abs/2103.00634)] \[[GitHub](https://github.com/zzc623/TransCT) ⭐ 28 | 🐛 1 | 🌐 Python | 📅 2021-06-25]
 
 **TED-net: Convolution-free T2T Vision Transformer-based Encoder-decoder Dilation network for Low-dose CT Denoising** <br>
 *Dayang Wang, Zhan Wu, Hengyong Yu*<br>
@@ -471,4 +471,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-31._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-01._
