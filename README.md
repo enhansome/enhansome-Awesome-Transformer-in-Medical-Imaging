@@ -1,6 +1,6 @@
 # Awesome Advances in Medical Image Analysis with Vision Transformers: A Comprehensive Review with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/hee9joon/Awesome-Diffusion-Models) ⭐ 12,365 | 🐛 27 | 🌐 HTML | 📅 2024-08-01
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/hee9joon/Awesome-Diffusion-Models) ⭐ 12,366 | 🐛 27 | 🌐 HTML | 📅 2024-08-01
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 
 :fire::fire:This is a collection of awesome articles about Transformer models in medical imaging :fire::fire:
@@ -108,7 +108,7 @@
 **TransMIL: Transformer based Correlated Multiple Instance Learning for Whole Slide Image Classification** <br>
 *Zhuchen Shao, Hao Bian, Yang Chen, Yifeng Wang, Jian Zhang, Xiangyang Ji, Yongbing Zhang*<br>
 \[2nd Jun., 2021] \[NeurIPS, 2021] \
-\[[PDF](https://openreview.net/pdf?id=LKUfuWxajHc)] \[[GitHub](https://github.com/szc19990412/TransMIL) ⭐ 494 | 🐛 26 | 🌐 Python | 📅 2024-05-03]
+\[[PDF](https://openreview.net/pdf?id=LKUfuWxajHc)] \[[GitHub](https://github.com/szc19990412/TransMIL) ⭐ 493 | 🐛 26 | 🌐 Python | 📅 2024-05-03]
 
 **Lesion-Aware Transformers for Diabetic Retinopathy Grading** <br>
 *Rui Sun, Yihao Li, Tianzhu Zhang, Zhendong Mao, Feng Wu, Yongdong Zhang*<br>
@@ -162,7 +162,7 @@
 **Semi-Supervised Medical Image Segmentation via Cross Teaching between CNN and Transformer**<br>
 *Xiangde Luo, Minhao Hu, Tao Song, Guotai Wang, Shaoting Zhang*<br>
 \[9th Dec., 2021] \[MIDL, 2022] \
-\[[PDF](https://arxiv.org/abs/2112.04894)] \[[Github](https://github.com/HiLab-git/SSL4MIS) ⭐ 2,682 | 🐛 36 | 🌐 Python | 📅 2025-06-07]
+\[[PDF](https://arxiv.org/abs/2112.04894)] \[[Github](https://github.com/HiLab-git/SSL4MIS) ⭐ 2,683 | 🐛 36 | 🌐 Python | 📅 2025-06-07]
 
 **T-AutoML: Automated Machine Learning for Lesion Segmentation using Transformers in 3D Medical Imaging**<br>
 *Dong Yang, Andriy Myronenko, Xiaosong Wang, Ziyue Xu, Holger R. Roth, Daguang Xu*<br>
@@ -187,7 +187,7 @@
 **Swin-Unet: Unet-like Pure Transformer for Medical Image Segmentation**<br>
 *Hu Cao, Yueyue Wang, Joy Chen, Dongsheng Jiang, Xiaopeng Zhang, Qi Tian, Manning Wang*  <br>
 \[12th May, 2021] \[arXiv, 2021] \
-\[[PDF](https://arxiv.org/abs/2105.05537)] \[[GitHub](https://github.com/HuCaoFighting/Swin-Unet) ⭐ 2,417 | 🐛 94 | 🌐 Python | 📅 2025-05-09]
+\[[PDF](https://arxiv.org/abs/2105.05537)] \[[GitHub](https://github.com/HuCaoFighting/Swin-Unet) ⭐ 2,418 | 🐛 94 | 🌐 Python | 📅 2025-05-09]
 
 **UNETR: Transformers for 3D Medical Image Segmentation**<br>
 *Ali Hatamizadeh, Yucheng Tang, Vishwesh Nath, Dong Yang, Andriy Myronenko, Bennett Landman, Holger Roth, Daguang Xu*<br>
@@ -217,7 +217,7 @@
 **TransUNet: Transformers Make Strong Encoders for Medical Image Segmentation** <br>
 *Jieneng Chen, Yongyi Lu, Qihang Yu, Xiangde Luo, Ehsan Adeli, Yan Wang, Le Lu, Alan L. Yuille, Yuyin Zhou*<br>
 \[8th Feb., 2021] \[arXiv, 2021] \
-\[[PDF](https://arxiv.org/abs/2102.04306)] \[[GitHub](https://github.com/Beckschen/TransUNet) ⭐ 3,235 | 🐛 138 | 🌐 Python | 📅 2026-02-25]
+\[[PDF](https://arxiv.org/abs/2102.04306)] \[[GitHub](https://github.com/Beckschen/TransUNet) ⭐ 3,234 | 🐛 138 | 🌐 Python | 📅 2026-02-25]
 
 ***
 
@@ -231,7 +231,7 @@
 **TransCT: Dual-path Transformer for Low Dose Computed Tomography** <br>
 *Zhicheng Zhang, Lequan Yu, Xiaokun Liang, Wei Zhao, Lei Xing*<br>
 \[28th Feb., 2021] \[MICCAI, 2021] \
-\[[PDF](https://arxiv.org/abs/2103.00634)] \[[GitHub](https://github.com/zzc623/TransCT) ⭐ 29 | 🐛 1 | 🌐 Python | 📅 2021-06-25]
+\[[PDF](https://arxiv.org/abs/2103.00634)] \[[GitHub](https://github.com/zzc623/TransCT) ⭐ 29 | 🐛 2 | 🌐 Python | 📅 2021-06-25]
 
 **TED-net: Convolution-free T2T Vision Transformer-based Encoder-decoder Dilation network for Low-dose CT Denoising** <br>
 *Dayang Wang, Zhan Wu, Hengyong Yu*<br>
@@ -457,7 +457,7 @@
 **Generating Radiology Reports via Memory-driven Transformer**<br>
 *Zhihong Chen, Yan Song, Tsung-Hui Chang, Xiang Wan*<br>
 \[30th Oct., 2020] \[EMNLP, 2020] \
-\[[PDF](https://arxiv.org/abs/2010.16056)] \[[GitHub](https://github.com/cuhksz-nlp/R2Gen) ⭐ 207 | 🐛 28 | 🌐 Python | 📅 2024-01-14]
+\[[PDF](https://arxiv.org/abs/2010.16056)] \[[GitHub](https://github.com/cuhksz-nlp/R2Gen) ⭐ 206 | 🐛 28 | 🌐 Python | 📅 2024-01-14]
 
 **Reinforced Transformer for Medical Image Captioning** <br>
 *Yuxuan Xiong, Bo Du, Pingkun Yan*<br>
@@ -471,4 +471,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-02._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-03._
