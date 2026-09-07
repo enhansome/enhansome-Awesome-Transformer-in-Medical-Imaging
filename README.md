@@ -1,6 +1,6 @@
 # Awesome Advances in Medical Image Analysis with Vision Transformers: A Comprehensive Review with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/hee9joon/Awesome-Diffusion-Models) ⭐ 12,368 | 🐛 27 | 🌐 HTML | 📅 2024-08-01
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/hee9joon/Awesome-Diffusion-Models) ⭐ 12,369 | 🐛 27 | 🌐 HTML | 📅 2024-08-01
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 
 :fire::fire:This is a collection of awesome articles about Transformer models in medical imaging :fire::fire:
@@ -212,7 +212,7 @@
 **TransFuse: Fusing Transformers and CNNs for Medical Image Segmentation**<br>
 *Yundong Zhang, Huiye Liu, Qiang Hu*<br>
 \[16th Feb., 2021] \[arXiv, 2021] \
-\[[PDF](https://arxiv.org/abs/2102.08005)] \[[GitHub](https://github.com/Rayicer/TransFuse) ⭐ 215 | 🐛 0 | 🌐 Python | 📅 2022-08-26]
+\[[PDF](https://arxiv.org/abs/2102.08005)] \[[GitHub](https://github.com/Rayicer/TransFuse) ⭐ 216 | 🐛 0 | 🌐 Python | 📅 2022-08-26]
 
 **TransUNet: Transformers Make Strong Encoders for Medical Image Segmentation** <br>
 *Jieneng Chen, Yongyi Lu, Qihang Yu, Xiangde Luo, Ehsan Adeli, Yan Wang, Le Lu, Alan L. Yuille, Yuyin Zhou*<br>
@@ -471,4 +471,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-06._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-07._
