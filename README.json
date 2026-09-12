@@ -1079,7 +1079,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-11T14:28:00.328Z",
+    "last_updated": "2026-09-12T13:37:14.347Z",
     "original_repository_info": {
       "archived": false,
       "description": "[MedIA Journal] An ultimately comprehensive paper list of Vision Transformer/Attention, including papers, codes, and related websites",
@@ -1091,7 +1091,7 @@
       "open_issues": 0,
       "owner": "xmindflow",
       "repo": "Awesome-Transformer-in-Medical-Imaging",
-      "stars": 223,
+      "stars": 224,
       "topics": [
         "attention-mechanism",
         "awesome-list",
