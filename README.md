@@ -1,6 +1,6 @@
 # Awesome Advances in Medical Image Analysis with Vision Transformers: A Comprehensive Review with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/hee9joon/Awesome-Diffusion-Models) ⭐ 12,369 | 🐛 27 | 🌐 HTML | 📅 2024-08-01
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/hee9joon/Awesome-Diffusion-Models) ⭐ 12,371 | 🐛 27 | 🌐 HTML | 📅 2024-08-01
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 
 :fire::fire:This is a collection of awesome articles about Transformer models in medical imaging :fire::fire:
@@ -157,7 +157,7 @@
 **Swin UNETR: Swin Transformers for Semantic Segmentation of Brain Tumors in MRI Images**<br>
 *Ali Hatamizadeh, Vishwesh Nath, Yucheng Tang, Dong Yang, Holger Roth, Daguang Xu*  <br>
 \[4th Jan., 2022] \[MICCAI Workshop] \
-\[[PDF](https://arxiv.org/abs/2201.01266)] \[[GitHub](https://github.com/Project-MONAI/research-contributions/tree/main/SwinUNETR) ⭐ 1,220 | 🐛 115 | 🌐 Python | 📅 2025-10-06]
+\[[PDF](https://arxiv.org/abs/2201.01266)] \[[GitHub](https://github.com/Project-MONAI/research-contributions/tree/main/SwinUNETR) ⭐ 1,222 | 🐛 115 | 🌐 Python | 📅 2025-10-06]
 
 **Semi-Supervised Medical Image Segmentation via Cross Teaching between CNN and Transformer**<br>
 *Xiangde Luo, Minhao Hu, Tao Song, Guotai Wang, Shaoting Zhang*<br>
@@ -192,7 +192,7 @@
 **UNETR: Transformers for 3D Medical Image Segmentation**<br>
 *Ali Hatamizadeh, Yucheng Tang, Vishwesh Nath, Dong Yang, Andriy Myronenko, Bennett Landman, Holger Roth, Daguang Xu*<br>
 \[18th Mar., 2021] \[WACV, 2022] \
-\[[PDF](https://arxiv.org/abs/2103.10504)] \[[GitHub](https://github.com/Project-MONAI/research-contributions/tree/main/UNETR/BTCV) ⭐ 1,220 | 🐛 115 | 🌐 Python | 📅 2025-10-06]
+\[[PDF](https://arxiv.org/abs/2103.10504)] \[[GitHub](https://github.com/Project-MONAI/research-contributions/tree/main/UNETR/BTCV) ⭐ 1,222 | 🐛 115 | 🌐 Python | 📅 2025-10-06]
 
 **TransBTS: Multimodal Brain Tumor Segmentation Using Transformer**<br>
 *Jiangyun Li, Wenxuan Wang, Chen Chen, Tianxiang Zhang, Sen Zha, Hong Yu, Jing Wang*<br>
@@ -236,7 +236,7 @@
 **TED-net: Convolution-free T2T Vision Transformer-based Encoder-decoder Dilation network for Low-dose CT Denoising** <br>
 *Dayang Wang, Zhan Wu, Hengyong Yu*<br>
 \[8th Jun., 2021] \[MICCAI Workshop, 2021]\
-\[[PDF](https://arxiv.org/abs/2106.04650)] \[[GitHub](https://github.com/wdayang/CTformer) ⭐ 83 | 🐛 12 | 🌐 Python | 📅 2022-04-04]
+\[[PDF](https://arxiv.org/abs/2106.04650)] \[[GitHub](https://github.com/wdayang/CTformer) ⭐ 84 | 🐛 12 | 🌐 Python | 📅 2022-04-04]
 
 **Eformer: Edge Enhancement based Transformer for Medical Image Denoising** <br>
 *Achleshwar Luthra, Harsh Sulakhe, Tanish Mittal, Abhishek Iyer, Santosh Yadav*<br>
@@ -256,7 +256,7 @@
 **CTformer: Convolution-free Token2Token Dilated Vision Transformer for Low-dose CT Denoising** <br>
 *Dayang Wang, Fenglei Fan, Zhan Wu, Rui Liu, Fei Wang, Hengyong Yu*<br>
 \[28th Feb., 2022] \[arXiv, 2022]\
-\[[PDF](https://arxiv.org/abs/2202.13517)] \[[GitHub](https://github.com/wdayang/CTformer) ⭐ 83 | 🐛 12 | 🌐 Python | 📅 2022-04-04]
+\[[PDF](https://arxiv.org/abs/2202.13517)] \[[GitHub](https://github.com/wdayang/CTformer) ⭐ 84 | 🐛 12 | 🌐 Python | 📅 2022-04-04]
 
 **Low-Dose CT Denoising via Sinogram Inner-Structure Transformer** <br>
 *Liutao Yang, Zhongnian Li, Rongjun Ge, Junyong Zhao, Haipeng Si, Daoqiang Zhang*<br>
@@ -471,4 +471,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-14._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-15._
