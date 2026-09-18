@@ -157,7 +157,7 @@
 **Swin UNETR: Swin Transformers for Semantic Segmentation of Brain Tumors in MRI Images**<br>
 *Ali Hatamizadeh, Vishwesh Nath, Yucheng Tang, Dong Yang, Holger Roth, Daguang Xu*  <br>
 \[4th Jan., 2022] \[MICCAI Workshop] \
-\[[PDF](https://arxiv.org/abs/2201.01266)] \[[GitHub](https://github.com/Project-MONAI/research-contributions/tree/main/SwinUNETR) ⭐ 1,222 | 🐛 115 | 🌐 Python | 📅 2025-10-06]
+\[[PDF](https://arxiv.org/abs/2201.01266)] \[[GitHub](https://github.com/Project-MONAI/research-contributions/tree/main/SwinUNETR) ⭐ 1,224 | 🐛 115 | 🌐 Python | 📅 2025-10-06]
 
 **Semi-Supervised Medical Image Segmentation via Cross Teaching between CNN and Transformer**<br>
 *Xiangde Luo, Minhao Hu, Tao Song, Guotai Wang, Shaoting Zhang*<br>
@@ -187,17 +187,17 @@
 **Swin-Unet: Unet-like Pure Transformer for Medical Image Segmentation**<br>
 *Hu Cao, Yueyue Wang, Joy Chen, Dongsheng Jiang, Xiaopeng Zhang, Qi Tian, Manning Wang*  <br>
 \[12th May, 2021] \[arXiv, 2021] \
-\[[PDF](https://arxiv.org/abs/2105.05537)] \[[GitHub](https://github.com/HuCaoFighting/Swin-Unet) ⭐ 2,419 | 🐛 94 | 🌐 Python | 📅 2025-05-09]
+\[[PDF](https://arxiv.org/abs/2105.05537)] \[[GitHub](https://github.com/HuCaoFighting/Swin-Unet) ⭐ 2,420 | 🐛 94 | 🌐 Python | 📅 2025-05-09]
 
 **UNETR: Transformers for 3D Medical Image Segmentation**<br>
 *Ali Hatamizadeh, Yucheng Tang, Vishwesh Nath, Dong Yang, Andriy Myronenko, Bennett Landman, Holger Roth, Daguang Xu*<br>
 \[18th Mar., 2021] \[WACV, 2022] \
-\[[PDF](https://arxiv.org/abs/2103.10504)] \[[GitHub](https://github.com/Project-MONAI/research-contributions/tree/main/UNETR/BTCV) ⭐ 1,222 | 🐛 115 | 🌐 Python | 📅 2025-10-06]
+\[[PDF](https://arxiv.org/abs/2103.10504)] \[[GitHub](https://github.com/Project-MONAI/research-contributions/tree/main/UNETR/BTCV) ⭐ 1,224 | 🐛 115 | 🌐 Python | 📅 2025-10-06]
 
 **TransBTS: Multimodal Brain Tumor Segmentation Using Transformer**<br>
 *Jiangyun Li, Wenxuan Wang, Chen Chen, Tianxiang Zhang, Sen Zha, Hong Yu, Jing Wang*<br>
 \[7th Mar, 2021] \[MICCAI, 2021] \
-\[[PDF](https://arxiv.org/abs/2103.04430)] \[[GitHub](https://github.com/Wenxuan-1119/TransBTS) ⭐ 451 | 🐛 37 | 🌐 Python | 📅 2024-03-11]
+\[[PDF](https://arxiv.org/abs/2103.04430)] \[[GitHub](https://github.com/Wenxuan-1119/TransBTS) ⭐ 451 | 🐛 38 | 🌐 Python | 📅 2024-03-11]
 
 **CoTr: Efficiently Bridging CNN and Transformer for 3D Medical Image Segmentation**  <br>
 *Yutong Xie, Jianpeng Zhang, Chunhua Shen, Yong Xia* <br>
@@ -212,7 +212,7 @@
 **TransFuse: Fusing Transformers and CNNs for Medical Image Segmentation**<br>
 *Yundong Zhang, Huiye Liu, Qiang Hu*<br>
 \[16th Feb., 2021] \[arXiv, 2021] \
-\[[PDF](https://arxiv.org/abs/2102.08005)] \[[GitHub](https://github.com/Rayicer/TransFuse) ⭐ 216 | 🐛 0 | 🌐 Python | 📅 2022-08-26]
+\[[PDF](https://arxiv.org/abs/2102.08005)] \[[GitHub](https://github.com/Rayicer/TransFuse) ⭐ 215 | 🐛 0 | 🌐 Python | 📅 2022-08-26]
 
 **TransUNet: Transformers Make Strong Encoders for Medical Image Segmentation** <br>
 *Jieneng Chen, Yongyi Lu, Qihang Yu, Xiangde Luo, Ehsan Adeli, Yan Wang, Le Lu, Alan L. Yuille, Yuyin Zhou*<br>
@@ -471,4 +471,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-17._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-18._

@@ -226,7 +226,7 @@
                 "open_issues": 115,
                 "owner": "Project-MONAI",
                 "repo": "research-contributions",
-                "stars": 1222,
+                "stars": 1224,
                 "topics": [
                   "monai",
                   "monai-components",
@@ -337,7 +337,7 @@
                 "open_issues": 94,
                 "owner": "HuCaoFighting",
                 "repo": "Swin-Unet",
-                "stars": 2419,
+                "stars": 2420,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:11:32.809Z"
@@ -358,7 +358,7 @@
                 "open_issues": 115,
                 "owner": "Project-MONAI",
                 "repo": "research-contributions",
-                "stars": 1222,
+                "stars": 1224,
                 "topics": [
                   "monai",
                   "monai-components",
@@ -380,7 +380,7 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2024-03-11T10:27:01Z",
-                "open_issues": 37,
+                "open_issues": 38,
                 "owner": "Rubics-Xuan",
                 "repo": "TransBTS",
                 "stars": 451,
@@ -459,7 +459,7 @@
                 "open_issues": 0,
                 "owner": "Rayicer",
                 "repo": "TransFuse",
-                "stars": 216,
+                "stars": 215,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:11:32.809Z"
@@ -1079,7 +1079,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-17T15:02:49.179Z",
+    "last_updated": "2026-09-18T14:32:08.953Z",
     "original_repository_info": {
       "archived": false,
       "description": "[MedIA Journal] An ultimately comprehensive paper list of Vision Transformer/Attention, including papers, codes, and related websites",
