@@ -1,6 +1,6 @@
 # Awesome Advances in Medical Image Analysis with Vision Transformers: A Comprehensive Review with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/hee9joon/Awesome-Diffusion-Models) ⭐ 12,372 | 🐛 27 | 🌐 HTML | 📅 2024-08-01
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/hee9joon/Awesome-Diffusion-Models) ⭐ 12,370 | 🐛 27 | 🌐 HTML | 📅 2024-08-01
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 
 :fire::fire:This is a collection of awesome articles about Transformer models in medical imaging :fire::fire:
@@ -108,7 +108,7 @@
 **TransMIL: Transformer based Correlated Multiple Instance Learning for Whole Slide Image Classification** <br>
 *Zhuchen Shao, Hao Bian, Yang Chen, Yifeng Wang, Jian Zhang, Xiangyang Ji, Yongbing Zhang*<br>
 \[2nd Jun., 2021] \[NeurIPS, 2021] \
-\[[PDF](https://openreview.net/pdf?id=LKUfuWxajHc)] \[[GitHub](https://github.com/szc19990412/TransMIL) ⭐ 493 | 🐛 26 | 🌐 Python | 📅 2024-05-03]
+\[[PDF](https://openreview.net/pdf?id=LKUfuWxajHc)] \[[GitHub](https://github.com/szc19990412/TransMIL) ⭐ 494 | 🐛 26 | 🌐 Python | 📅 2024-05-03]
 
 **Lesion-Aware Transformers for Diabetic Retinopathy Grading** <br>
 *Rui Sun, Yihao Li, Tianzhu Zhang, Zhendong Mao, Feng Wu, Yongdong Zhang*<br>
@@ -157,7 +157,7 @@
 **Swin UNETR: Swin Transformers for Semantic Segmentation of Brain Tumors in MRI Images**<br>
 *Ali Hatamizadeh, Vishwesh Nath, Yucheng Tang, Dong Yang, Holger Roth, Daguang Xu*  <br>
 \[4th Jan., 2022] \[MICCAI Workshop] \
-\[[PDF](https://arxiv.org/abs/2201.01266)] \[[GitHub](https://github.com/Project-MONAI/research-contributions/tree/main/SwinUNETR) ⭐ 1,224 | 🐛 115 | 🌐 Python | 📅 2025-10-06]
+\[[PDF](https://arxiv.org/abs/2201.01266)] \[[GitHub](https://github.com/Project-MONAI/research-contributions/tree/main/SwinUNETR) ⭐ 1,225 | 🐛 115 | 🌐 Python | 📅 2025-10-06]
 
 **Semi-Supervised Medical Image Segmentation via Cross Teaching between CNN and Transformer**<br>
 *Xiangde Luo, Minhao Hu, Tao Song, Guotai Wang, Shaoting Zhang*<br>
@@ -192,7 +192,7 @@
 **UNETR: Transformers for 3D Medical Image Segmentation**<br>
 *Ali Hatamizadeh, Yucheng Tang, Vishwesh Nath, Dong Yang, Andriy Myronenko, Bennett Landman, Holger Roth, Daguang Xu*<br>
 \[18th Mar., 2021] \[WACV, 2022] \
-\[[PDF](https://arxiv.org/abs/2103.10504)] \[[GitHub](https://github.com/Project-MONAI/research-contributions/tree/main/UNETR/BTCV) ⭐ 1,224 | 🐛 115 | 🌐 Python | 📅 2025-10-06]
+\[[PDF](https://arxiv.org/abs/2103.10504)] \[[GitHub](https://github.com/Project-MONAI/research-contributions/tree/main/UNETR/BTCV) ⭐ 1,225 | 🐛 115 | 🌐 Python | 📅 2025-10-06]
 
 **TransBTS: Multimodal Brain Tumor Segmentation Using Transformer**<br>
 *Jiangyun Li, Wenxuan Wang, Chen Chen, Tianxiang Zhang, Sen Zha, Hong Yu, Jing Wang*<br>
@@ -217,7 +217,7 @@
 **TransUNet: Transformers Make Strong Encoders for Medical Image Segmentation** <br>
 *Jieneng Chen, Yongyi Lu, Qihang Yu, Xiangde Luo, Ehsan Adeli, Yan Wang, Le Lu, Alan L. Yuille, Yuyin Zhou*<br>
 \[8th Feb., 2021] \[arXiv, 2021] \
-\[[PDF](https://arxiv.org/abs/2102.04306)] \[[GitHub](https://github.com/Beckschen/TransUNet) ⭐ 3,237 | 🐛 138 | 🌐 Python | 📅 2026-02-25]
+\[[PDF](https://arxiv.org/abs/2102.04306)] \[[GitHub](https://github.com/Beckschen/TransUNet) ⭐ 3,238 | 🐛 138 | 🌐 Python | 📅 2026-02-25]
 
 ***
 
@@ -471,4 +471,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-19._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-20._
