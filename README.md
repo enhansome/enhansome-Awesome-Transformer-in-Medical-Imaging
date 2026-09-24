@@ -1,6 +1,6 @@
 # Awesome Advances in Medical Image Analysis with Vision Transformers: A Comprehensive Review with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/hee9joon/Awesome-Diffusion-Models) ⭐ 12,371 | 🐛 28 | 🌐 HTML | 📅 2024-08-01
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/hee9joon/Awesome-Diffusion-Models) ⭐ 12,372 | 🐛 28 | 🌐 HTML | 📅 2024-08-01
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 
 :fire::fire:This is a collection of awesome articles about Transformer models in medical imaging :fire::fire:
@@ -108,7 +108,7 @@
 **TransMIL: Transformer based Correlated Multiple Instance Learning for Whole Slide Image Classification** <br>
 *Zhuchen Shao, Hao Bian, Yang Chen, Yifeng Wang, Jian Zhang, Xiangyang Ji, Yongbing Zhang*<br>
 \[2nd Jun., 2021] \[NeurIPS, 2021] \
-\[[PDF](https://openreview.net/pdf?id=LKUfuWxajHc)] \[[GitHub](https://github.com/szc19990412/TransMIL) ⭐ 494 | 🐛 26 | 🌐 Python | 📅 2024-05-03]
+\[[PDF](https://openreview.net/pdf?id=LKUfuWxajHc)] \[[GitHub](https://github.com/szc19990412/TransMIL) ⭐ 495 | 🐛 26 | 🌐 Python | 📅 2024-05-03]
 
 **Lesion-Aware Transformers for Diabetic Retinopathy Grading** <br>
 *Rui Sun, Yihao Li, Tianzhu Zhang, Zhendong Mao, Feng Wu, Yongdong Zhang*<br>
@@ -197,7 +197,7 @@
 **TransBTS: Multimodal Brain Tumor Segmentation Using Transformer**<br>
 *Jiangyun Li, Wenxuan Wang, Chen Chen, Tianxiang Zhang, Sen Zha, Hong Yu, Jing Wang*<br>
 \[7th Mar, 2021] \[MICCAI, 2021] \
-\[[PDF](https://arxiv.org/abs/2103.04430)] \[[GitHub](https://github.com/Wenxuan-1119/TransBTS) ⭐ 451 | 🐛 38 | 🌐 Python | 📅 2024-03-11]
+\[[PDF](https://arxiv.org/abs/2103.04430)] \[[GitHub](https://github.com/Wenxuan-1119/TransBTS) ⭐ 452 | 🐛 38 | 🌐 Python | 📅 2024-03-11]
 
 **CoTr: Efficiently Bridging CNN and Transformer for 3D Medical Image Segmentation**  <br>
 *Yutong Xie, Jianpeng Zhang, Chunhua Shen, Yong Xia* <br>
@@ -217,7 +217,7 @@
 **TransUNet: Transformers Make Strong Encoders for Medical Image Segmentation** <br>
 *Jieneng Chen, Yongyi Lu, Qihang Yu, Xiangde Luo, Ehsan Adeli, Yan Wang, Le Lu, Alan L. Yuille, Yuyin Zhou*<br>
 \[8th Feb., 2021] \[arXiv, 2021] \
-\[[PDF](https://arxiv.org/abs/2102.04306)] \[[GitHub](https://github.com/Beckschen/TransUNet) ⭐ 3,239 | 🐛 138 | 🌐 Python | 📅 2026-02-25]
+\[[PDF](https://arxiv.org/abs/2102.04306)] \[[GitHub](https://github.com/Beckschen/TransUNet) ⭐ 3,240 | 🐛 138 | 🌐 Python | 📅 2026-02-25]
 
 ***
 
@@ -378,7 +378,7 @@
 **SVoRT: Iterative Transformer for Slice-to-Volume Registration in Fetal Brain MRI.** <br>
 *Junshen Xu, Daniel Moyer, P. Ellen Grant, Polina Golland, Juan Eugenio Iglesias, Elfar Adalsteinsson.*<br>
 \[22th Jun., 2022] \[MICCAI, 2022] \
-\[[PDF](https://arxiv.org/abs/2206.10802?context=eess)] \[[GitHub](https://github.com/daviddmc/svort) ⭐ 47 | 🐛 1 | 🌐 Python | 📅 2023-05-11]
+\[[PDF](https://arxiv.org/abs/2206.10802?context=eess)] \[[GitHub](https://github.com/daviddmc/svort) ⭐ 48 | 🐛 1 | 🌐 Python | 📅 2023-05-11]
 
 **XMorpher: Full Transformer for Deformable Medical Image Registration via Cross Attention**<br>
 *Jiacheng Shi, Yuting He, Youyong Kong, Jean-Louis Coatrieux, Huazhong Shu, Guanyu Yang, Shuo Li*<br>
@@ -457,7 +457,7 @@
 **Generating Radiology Reports via Memory-driven Transformer**<br>
 *Zhihong Chen, Yan Song, Tsung-Hui Chang, Xiang Wan*<br>
 \[30th Oct., 2020] \[EMNLP, 2020] \
-\[[PDF](https://arxiv.org/abs/2010.16056)] \[[GitHub](https://github.com/cuhksz-nlp/R2Gen) ⭐ 206 | 🐛 28 | 🌐 Python | 📅 2024-01-14]
+\[[PDF](https://arxiv.org/abs/2010.16056)] \[[GitHub](https://github.com/cuhksz-nlp/R2Gen) ⭐ 207 | 🐛 28 | 🌐 Python | 📅 2024-01-14]
 
 **Reinforced Transformer for Medical Image Captioning** <br>
 *Yuxuan Xiong, Bo Du, Pingkun Yan*<br>
@@ -471,4 +471,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-23._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-24._
