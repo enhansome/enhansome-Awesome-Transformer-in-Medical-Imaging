@@ -162,7 +162,7 @@
 **Semi-Supervised Medical Image Segmentation via Cross Teaching between CNN and Transformer**<br>
 *Xiangde Luo, Minhao Hu, Tao Song, Guotai Wang, Shaoting Zhang*<br>
 \[9th Dec., 2021] \[MIDL, 2022] \
-\[[PDF](https://arxiv.org/abs/2112.04894)] \[[Github](https://github.com/HiLab-git/SSL4MIS) ⭐ 2,689 | 🐛 36 | 🌐 Python | 📅 2025-06-07]
+\[[PDF](https://arxiv.org/abs/2112.04894)] \[[Github](https://github.com/HiLab-git/SSL4MIS) ⭐ 2,690 | 🐛 36 | 🌐 Python | 📅 2025-06-07]
 
 **T-AutoML: Automated Machine Learning for Lesion Segmentation using Transformers in 3D Medical Imaging**<br>
 *Dong Yang, Andriy Myronenko, Xiaosong Wang, Ziyue Xu, Holger R. Roth, Daguang Xu*<br>
@@ -217,7 +217,7 @@
 **TransUNet: Transformers Make Strong Encoders for Medical Image Segmentation** <br>
 *Jieneng Chen, Yongyi Lu, Qihang Yu, Xiangde Luo, Ehsan Adeli, Yan Wang, Le Lu, Alan L. Yuille, Yuyin Zhou*<br>
 \[8th Feb., 2021] \[arXiv, 2021] \
-\[[PDF](https://arxiv.org/abs/2102.04306)] \[[GitHub](https://github.com/Beckschen/TransUNet) ⭐ 3,240 | 🐛 138 | 🌐 Python | 📅 2026-02-25]
+\[[PDF](https://arxiv.org/abs/2102.04306)] \[[GitHub](https://github.com/Beckschen/TransUNet) ⭐ 3,241 | 🐛 138 | 🌐 Python | 📅 2026-02-25]
 
 ***
 
@@ -471,4 +471,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-24._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-25._
