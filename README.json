@@ -316,7 +316,7 @@
                 "open_issues": 10,
                 "owner": "askerlee",
                 "repo": "segtran",
-                "stars": 229,
+                "stars": 228,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:11:32.809Z"
@@ -687,7 +687,7 @@
                 "open_issues": 6,
                 "owner": "icon-lab",
                 "repo": "ResViT",
-                "stars": 187,
+                "stars": 186,
                 "topics": [
                   "attention",
                   "deep-learning",
@@ -1079,7 +1079,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-28T18:10:44.207Z",
+    "last_updated": "2026-09-29T16:31:52.691Z",
     "original_repository_info": {
       "archived": false,
       "description": "[MedIA Journal] An ultimately comprehensive paper list of Vision Transformer/Attention, including papers, codes, and related websites",

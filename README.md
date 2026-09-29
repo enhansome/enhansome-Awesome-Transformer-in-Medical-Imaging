@@ -1,6 +1,6 @@
 # Awesome Advances in Medical Image Analysis with Vision Transformers: A Comprehensive Review with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/hee9joon/Awesome-Diffusion-Models) ⭐ 12,374 | 🐛 28 | 🌐 HTML | 📅 2024-08-01
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/hee9joon/Awesome-Diffusion-Models) ⭐ 12,375 | 🐛 28 | 🌐 HTML | 📅 2024-08-01
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 
 :fire::fire:This is a collection of awesome articles about Transformer models in medical imaging :fire::fire:
@@ -182,7 +182,7 @@
 **Medical Image Segmentation Using Squeeze-and-Expansion Transformers**<br>
 *Shaohua Li, Xiuchao Sui, Xiangde Luo, Xinxing Xu, Yong Liu, Rick Goh*<br>
 \[20th May, 2021] \[IJCAI, 2021] \
-\[[PDF](https://arxiv.org/abs/2105.09511)] \[[GitHub](https://github.com/askerlee/segtran) ⭐ 229 | 🐛 10 | 🌐 Python | 📅 2022-06-15]
+\[[PDF](https://arxiv.org/abs/2105.09511)] \[[GitHub](https://github.com/askerlee/segtran) ⭐ 228 | 🐛 10 | 🌐 Python | 📅 2022-06-15]
 
 **Swin-Unet: Unet-like Pure Transformer for Medical Image Segmentation**<br>
 *Hu Cao, Yueyue Wang, Joy Chen, Dongsheng Jiang, Xiaopeng Zhang, Qi Tian, Manning Wang*  <br>
@@ -320,7 +320,7 @@
 **ResViT: Residual vision transformers for multi-modal medical image synthesis** <br>
 *Onat Dalmaz, Mahmut Yurt, Tolga Çukur*<br>
 \[30th Jun., 2021] \[TMI Journal, 2021] \
-\[[PDF](https://arxiv.org/abs/2106.16031)] \[[GitHub](https://github.com/icon-lab/ResViT) ⭐ 187 | 🐛 6 | 🌐 Python | 📅 2023-05-08]
+\[[PDF](https://arxiv.org/abs/2106.16031)] \[[GitHub](https://github.com/icon-lab/ResViT) ⭐ 186 | 🐛 6 | 🌐 Python | 📅 2023-05-08]
 
 **PTNet: A High-Resolution Infant MRI Synthesizer Based on Transformer** <br>
 *Xuzhe Zhang, Xinzi He, Jia Guo, Nabil Ettehadi, Natalie Aw, David Semanek, Jonathan Posner, Andrew Laine, Yun Wang*<br>
@@ -471,4 +471,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-28._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-29._
