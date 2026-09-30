@@ -226,7 +226,7 @@
                 "open_issues": 115,
                 "owner": "Project-MONAI",
                 "repo": "research-contributions",
-                "stars": 1225,
+                "stars": 1226,
                 "topics": [
                   "monai",
                   "monai-components",
@@ -358,7 +358,7 @@
                 "open_issues": 115,
                 "owner": "Project-MONAI",
                 "repo": "research-contributions",
-                "stars": 1225,
+                "stars": 1226,
                 "topics": [
                   "monai",
                   "monai-components",
@@ -1079,7 +1079,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-29T16:31:52.691Z",
+    "last_updated": "2026-09-30T16:25:21.655Z",
     "original_repository_info": {
       "archived": false,
       "description": "[MedIA Journal] An ultimately comprehensive paper list of Vision Transformer/Attention, including papers, codes, and related websites",

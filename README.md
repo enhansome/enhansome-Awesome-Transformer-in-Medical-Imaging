@@ -157,7 +157,7 @@
 **Swin UNETR: Swin Transformers for Semantic Segmentation of Brain Tumors in MRI Images**<br>
 *Ali Hatamizadeh, Vishwesh Nath, Yucheng Tang, Dong Yang, Holger Roth, Daguang Xu*  <br>
 \[4th Jan., 2022] \[MICCAI Workshop] \
-\[[PDF](https://arxiv.org/abs/2201.01266)] \[[GitHub](https://github.com/Project-MONAI/research-contributions/tree/main/SwinUNETR) ⭐ 1,225 | 🐛 115 | 🌐 Python | 📅 2025-10-06]
+\[[PDF](https://arxiv.org/abs/2201.01266)] \[[GitHub](https://github.com/Project-MONAI/research-contributions/tree/main/SwinUNETR) ⭐ 1,226 | 🐛 115 | 🌐 Python | 📅 2025-10-06]
 
 **Semi-Supervised Medical Image Segmentation via Cross Teaching between CNN and Transformer**<br>
 *Xiangde Luo, Minhao Hu, Tao Song, Guotai Wang, Shaoting Zhang*<br>
@@ -192,7 +192,7 @@
 **UNETR: Transformers for 3D Medical Image Segmentation**<br>
 *Ali Hatamizadeh, Yucheng Tang, Vishwesh Nath, Dong Yang, Andriy Myronenko, Bennett Landman, Holger Roth, Daguang Xu*<br>
 \[18th Mar., 2021] \[WACV, 2022] \
-\[[PDF](https://arxiv.org/abs/2103.10504)] \[[GitHub](https://github.com/Project-MONAI/research-contributions/tree/main/UNETR/BTCV) ⭐ 1,225 | 🐛 115 | 🌐 Python | 📅 2025-10-06]
+\[[PDF](https://arxiv.org/abs/2103.10504)] \[[GitHub](https://github.com/Project-MONAI/research-contributions/tree/main/UNETR/BTCV) ⭐ 1,226 | 🐛 115 | 🌐 Python | 📅 2025-10-06]
 
 **TransBTS: Multimodal Brain Tumor Segmentation Using Transformer**<br>
 *Jiangyun Li, Wenxuan Wang, Chen Chen, Tianxiang Zhang, Sen Zha, Hong Yu, Jing Wang*<br>
@@ -471,4 +471,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-29._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-30._
