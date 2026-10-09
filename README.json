@@ -251,7 +251,7 @@
                 "open_issues": 36,
                 "owner": "HiLab-git",
                 "repo": "SSL4MIS",
-                "stars": 2692,
+                "stars": 2696,
                 "topics": [
                   "semi-supervised-learning"
                 ]
@@ -480,7 +480,7 @@
                 "open_issues": 138,
                 "owner": "Beckschen",
                 "repo": "TransUNet",
-                "stars": 3245,
+                "stars": 3246,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:11:32.809Z"
@@ -896,7 +896,7 @@
                 "open_issues": 7,
                 "owner": "junyuchen245",
                 "repo": "TransMorph_Transformer_for_Medical_Image_Registration",
-                "stars": 632,
+                "stars": 633,
                 "topics": [
                   "bayesian-deep-learning",
                   "deep-learning",
@@ -1079,7 +1079,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-08T17:24:47.277Z",
+    "last_updated": "2026-10-09T17:00:21.521Z",
     "original_repository_info": {
       "archived": false,
       "description": "[MedIA Journal] An ultimately comprehensive paper list of Vision Transformer/Attention, including papers, codes, and related websites",

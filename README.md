@@ -162,7 +162,7 @@
 **Semi-Supervised Medical Image Segmentation via Cross Teaching between CNN and Transformer**<br>
 *Xiangde Luo, Minhao Hu, Tao Song, Guotai Wang, Shaoting Zhang*<br>
 \[9th Dec., 2021] \[MIDL, 2022] \
-\[[PDF](https://arxiv.org/abs/2112.04894)] \[[Github](https://github.com/HiLab-git/SSL4MIS) ⭐ 2,692 | 🐛 36 | 🌐 Python | 📅 2025-06-07]
+\[[PDF](https://arxiv.org/abs/2112.04894)] \[[Github](https://github.com/HiLab-git/SSL4MIS) ⭐ 2,696 | 🐛 36 | 🌐 Python | 📅 2025-06-07]
 
 **T-AutoML: Automated Machine Learning for Lesion Segmentation using Transformers in 3D Medical Imaging**<br>
 *Dong Yang, Andriy Myronenko, Xiaosong Wang, Ziyue Xu, Holger R. Roth, Daguang Xu*<br>
@@ -217,7 +217,7 @@
 **TransUNet: Transformers Make Strong Encoders for Medical Image Segmentation** <br>
 *Jieneng Chen, Yongyi Lu, Qihang Yu, Xiangde Luo, Ehsan Adeli, Yan Wang, Le Lu, Alan L. Yuille, Yuyin Zhou*<br>
 \[8th Feb., 2021] \[arXiv, 2021] \
-\[[PDF](https://arxiv.org/abs/2102.04306)] \[[GitHub](https://github.com/Beckschen/TransUNet) ⭐ 3,245 | 🐛 138 | 🌐 Python | 📅 2026-02-25]
+\[[PDF](https://arxiv.org/abs/2102.04306)] \[[GitHub](https://github.com/Beckschen/TransUNet) ⭐ 3,246 | 🐛 138 | 🌐 Python | 📅 2026-02-25]
 
 ***
 
@@ -388,7 +388,7 @@
 **TransMorph: Transformer for unsupervised medical image registration** <br>
 *Junyu Chen, Eric C. Frey, Yufan He, William P. Segars, Ye Li, Yong Du*<br>
 \[19th Nov., 2021] \[MedIA Journal]\
-\[[PDF](https://arxiv.org/abs/2111.10480)] \[[GitHub](https://github.com/junyuchen245/TransMorph_Transformer_for_Medical_Image_Registration) ⭐ 632 | 🐛 7 | 🌐 Python | 📅 2025-05-22]
+\[[PDF](https://arxiv.org/abs/2111.10480)] \[[GitHub](https://github.com/junyuchen245/TransMorph_Transformer_for_Medical_Image_Registration) ⭐ 633 | 🐛 7 | 🌐 Python | 📅 2025-05-22]
 
 **Learning dual transformer network for diffeomorphic registration** <br>
 *Yungeng Zhang, Yuru Pei & Hongbin Zha*<br>
@@ -471,4 +471,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-08._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-09._
