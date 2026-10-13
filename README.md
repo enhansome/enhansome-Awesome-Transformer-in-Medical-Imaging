@@ -187,7 +187,7 @@
 **Swin-Unet: Unet-like Pure Transformer for Medical Image Segmentation**<br>
 *Hu Cao, Yueyue Wang, Joy Chen, Dongsheng Jiang, Xiaopeng Zhang, Qi Tian, Manning Wang*  <br>
 \[12th May, 2021] \[arXiv, 2021] \
-\[[PDF](https://arxiv.org/abs/2105.05537)] \[[GitHub](https://github.com/HuCaoFighting/Swin-Unet) ⭐ 2,421 | 🐛 94 | 🌐 Python | 📅 2025-05-09]
+\[[PDF](https://arxiv.org/abs/2105.05537)] \[[GitHub](https://github.com/HuCaoFighting/Swin-Unet) ⭐ 2,419 | 🐛 94 | 🌐 Python | 📅 2025-05-09]
 
 **UNETR: Transformers for 3D Medical Image Segmentation**<br>
 *Ali Hatamizadeh, Yucheng Tang, Vishwesh Nath, Dong Yang, Andriy Myronenko, Bennett Landman, Holger Roth, Daguang Xu*<br>
@@ -207,7 +207,7 @@
 **Medical Transformer: Gated Axial-Attention for Medical Image Segmentation**<br>
 *Jeya Maria Jose Valanarasu, Poojan Oza, Ilker Hacihaliloglu, Vishal M. Patel*<br>
 \[21th Feb., 2021] \[MICCAI, 2021] \
-\[[PDF](https://arxiv.org/abs/2102.10662)] \[[GitHub](https://github.com/jeya-maria-jose/Medical-Transformer) ⭐ 861 | 🐛 37 | 🌐 Python | 📅 2023-02-23]
+\[[PDF](https://arxiv.org/abs/2102.10662)] \[[GitHub](https://github.com/jeya-maria-jose/Medical-Transformer) ⭐ 860 | 🐛 37 | 🌐 Python | 📅 2023-02-23]
 
 **TransFuse: Fusing Transformers and CNNs for Medical Image Segmentation**<br>
 *Yundong Zhang, Huiye Liu, Qiang Hu*<br>
@@ -388,7 +388,7 @@
 **TransMorph: Transformer for unsupervised medical image registration** <br>
 *Junyu Chen, Eric C. Frey, Yufan He, William P. Segars, Ye Li, Yong Du*<br>
 \[19th Nov., 2021] \[MedIA Journal]\
-\[[PDF](https://arxiv.org/abs/2111.10480)] \[[GitHub](https://github.com/junyuchen245/TransMorph_Transformer_for_Medical_Image_Registration) ⭐ 633 | 🐛 7 | 🌐 Python | 📅 2025-05-22]
+\[[PDF](https://arxiv.org/abs/2111.10480)] \[[GitHub](https://github.com/junyuchen245/TransMorph_Transformer_for_Medical_Image_Registration) ⭐ 634 | 🐛 7 | 🌐 Python | 📅 2025-05-22]
 
 **Learning dual transformer network for diffeomorphic registration** <br>
 *Yungeng Zhang, Yuru Pei & Hongbin Zha*<br>
@@ -471,4 +471,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-12._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-13._
