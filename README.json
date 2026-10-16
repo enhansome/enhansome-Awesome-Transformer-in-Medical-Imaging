@@ -251,7 +251,7 @@
                 "open_issues": 36,
                 "owner": "HiLab-git",
                 "repo": "SSL4MIS",
-                "stars": 2699,
+                "stars": 2700,
                 "topics": [
                   "semi-supervised-learning"
                 ]
@@ -592,7 +592,7 @@
                 "open_issues": 3,
                 "owner": "juglab",
                 "repo": "FourierImageTransformer",
-                "stars": 101,
+                "stars": 100,
                 "topics": [
                   "computer-vision",
                   "image-processing",
@@ -1079,7 +1079,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-15T15:03:58.620Z",
+    "last_updated": "2026-10-16T14:53:22.190Z",
     "original_repository_info": {
       "archived": false,
       "description": "[MedIA Journal] An ultimately comprehensive paper list of Vision Transformer/Attention, including papers, codes, and related websites",
