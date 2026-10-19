@@ -212,12 +212,12 @@
 **TransFuse: Fusing Transformers and CNNs for Medical Image Segmentation**<br>
 *Yundong Zhang, Huiye Liu, Qiang Hu*<br>
 \[16th Feb., 2021] \[arXiv, 2021] \
-\[[PDF](https://arxiv.org/abs/2102.08005)] \[[GitHub](https://github.com/Rayicer/TransFuse) ⭐ 215 | 🐛 0 | 🌐 Python | 📅 2022-08-26]
+\[[PDF](https://arxiv.org/abs/2102.08005)] \[[GitHub](https://github.com/Rayicer/TransFuse) ⭐ 216 | 🐛 0 | 🌐 Python | 📅 2022-08-26]
 
 **TransUNet: Transformers Make Strong Encoders for Medical Image Segmentation** <br>
 *Jieneng Chen, Yongyi Lu, Qihang Yu, Xiangde Luo, Ehsan Adeli, Yan Wang, Le Lu, Alan L. Yuille, Yuyin Zhou*<br>
 \[8th Feb., 2021] \[arXiv, 2021] \
-\[[PDF](https://arxiv.org/abs/2102.04306)] \[[GitHub](https://github.com/Beckschen/TransUNet) ⭐ 3,246 | 🐛 138 | 🌐 Python | 📅 2026-02-25]
+\[[PDF](https://arxiv.org/abs/2102.04306)] \[[GitHub](https://github.com/Beckschen/TransUNet) ⭐ 3,247 | 🐛 138 | 🌐 Python | 📅 2026-02-25]
 
 ***
 
@@ -364,7 +364,7 @@
 **Transformer Network for Significant Stenosis Detection in CCTA of Coronary Arteries**<br>
 *Xinghua Ma, Gongning Luo, Wei Wang, Kuanquan Wang*<br>
 \[7th Jul., 2021] \[MICCAI, 2021] \
-\[[PDF](https://arxiv.org/abs/2107.03035)] \[[Github](https://github.com/XinghuaMa/TR-Net) ⭐ 31 | 🐛 3 | 🌐 Python | 📅 2021-09-27]
+\[[PDF](https://arxiv.org/abs/2107.03035)] \[[Github](https://github.com/XinghuaMa/TR-Net) ⭐ 30 | 🐛 3 | 🌐 Python | 📅 2021-09-27]
 
 **COTR: Convolution in Transformer Network for End to End Polyp Detection**<br>
 *Zhiqiang Shen, Chaonan Lin, Shaohua Zheng*<br>
@@ -412,7 +412,7 @@
 **Cross-modal Memory Networks for Radiology Report Generation** <br>
 *Zhihong Chen, Yaling Shen, Yan Song, Xiang Wan*<br>
 \[28th Apr., 2022] \[ACL-IJCNLP, 2021] \
-\[[PDF](https://arxiv.org/abs/2204.13258)] \[[GitHub](https://github.com/zhjohnchan/R2GenCMN) ⭐ 118 | 🐛 5 | 🌐 Python | 📅 2023-08-17]
+\[[PDF](https://arxiv.org/abs/2204.13258)] \[[GitHub](https://github.com/zhjohnchan/R2GenCMN) ⭐ 119 | 🐛 5 | 🌐 Python | 📅 2023-08-17]
 
 **AlignTransformer: Hierarchical Alignment of Visual Regions and Disease Tags for Medical Report Generation** <br>
 *Di You, Fenglin Liu, Shen Ge, Xiaoxia Xie, Jing Zhang, Xian Wu*<br>
@@ -471,4 +471,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-18._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-19._
