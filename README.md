@@ -108,7 +108,7 @@
 **TransMIL: Transformer based Correlated Multiple Instance Learning for Whole Slide Image Classification** <br>
 *Zhuchen Shao, Hao Bian, Yang Chen, Yifeng Wang, Jian Zhang, Xiangyang Ji, Yongbing Zhang*<br>
 \[2nd Jun., 2021] \[NeurIPS, 2021] \
-\[[PDF](https://openreview.net/pdf?id=LKUfuWxajHc)] \[[GitHub](https://github.com/szc19990412/TransMIL) ⭐ 495 | 🐛 26 | 🌐 Python | 📅 2024-05-03]
+\[[PDF](https://openreview.net/pdf?id=LKUfuWxajHc)] \[[GitHub](https://github.com/szc19990412/TransMIL) ⭐ 496 | 🐛 26 | 🌐 Python | 📅 2024-05-03]
 
 **Lesion-Aware Transformers for Diabetic Retinopathy Grading** <br>
 *Rui Sun, Yihao Li, Tianzhu Zhang, Zhendong Mao, Feng Wu, Yongdong Zhang*<br>
@@ -162,7 +162,7 @@
 **Semi-Supervised Medical Image Segmentation via Cross Teaching between CNN and Transformer**<br>
 *Xiangde Luo, Minhao Hu, Tao Song, Guotai Wang, Shaoting Zhang*<br>
 \[9th Dec., 2021] \[MIDL, 2022] \
-\[[PDF](https://arxiv.org/abs/2112.04894)] \[[Github](https://github.com/HiLab-git/SSL4MIS) ⭐ 2,700 | 🐛 36 | 🌐 Python | 📅 2025-06-07]
+\[[PDF](https://arxiv.org/abs/2112.04894)] \[[Github](https://github.com/HiLab-git/SSL4MIS) ⭐ 2,701 | 🐛 36 | 🌐 Python | 📅 2025-06-07]
 
 **T-AutoML: Automated Machine Learning for Lesion Segmentation using Transformers in 3D Medical Imaging**<br>
 *Dong Yang, Andriy Myronenko, Xiaosong Wang, Ziyue Xu, Holger R. Roth, Daguang Xu*<br>
@@ -471,4 +471,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-20._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-21._
