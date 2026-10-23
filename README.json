@@ -251,7 +251,7 @@
                 "open_issues": 36,
                 "owner": "HiLab-git",
                 "repo": "SSL4MIS",
-                "stars": 2701,
+                "stars": 2703,
                 "topics": [
                   "semi-supervised-learning"
                 ]
@@ -1064,7 +1064,7 @@
                 "open_issues": 28,
                 "owner": "cuhksz-nlp",
                 "repo": "R2Gen",
-                "stars": 207,
+                "stars": 206,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:11:32.809Z"
@@ -1079,7 +1079,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-22T15:18:48.054Z",
+    "last_updated": "2026-10-23T15:07:17.461Z",
     "original_repository_info": {
       "archived": false,
       "description": "[MedIA Journal] An ultimately comprehensive paper list of Vision Transformer/Attention, including papers, codes, and related websites",

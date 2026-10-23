@@ -1,6 +1,6 @@
 # Awesome Advances in Medical Image Analysis with Vision Transformers: A Comprehensive Review with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/hee9joon/Awesome-Diffusion-Models) ⭐ 12,380 | 🐛 31 | 🌐 HTML | 📅 2024-08-01
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/hee9joon/Awesome-Diffusion-Models) ⭐ 12,382 | 🐛 31 | 🌐 HTML | 📅 2024-08-01
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 
 :fire::fire:This is a collection of awesome articles about Transformer models in medical imaging :fire::fire:
@@ -162,7 +162,7 @@
 **Semi-Supervised Medical Image Segmentation via Cross Teaching between CNN and Transformer**<br>
 *Xiangde Luo, Minhao Hu, Tao Song, Guotai Wang, Shaoting Zhang*<br>
 \[9th Dec., 2021] \[MIDL, 2022] \
-\[[PDF](https://arxiv.org/abs/2112.04894)] \[[Github](https://github.com/HiLab-git/SSL4MIS) ⭐ 2,701 | 🐛 36 | 🌐 Python | 📅 2025-06-07]
+\[[PDF](https://arxiv.org/abs/2112.04894)] \[[Github](https://github.com/HiLab-git/SSL4MIS) ⭐ 2,703 | 🐛 36 | 🌐 Python | 📅 2025-06-07]
 
 **T-AutoML: Automated Machine Learning for Lesion Segmentation using Transformers in 3D Medical Imaging**<br>
 *Dong Yang, Andriy Myronenko, Xiaosong Wang, Ziyue Xu, Holger R. Roth, Daguang Xu*<br>
@@ -457,7 +457,7 @@
 **Generating Radiology Reports via Memory-driven Transformer**<br>
 *Zhihong Chen, Yan Song, Tsung-Hui Chang, Xiang Wan*<br>
 \[30th Oct., 2020] \[EMNLP, 2020] \
-\[[PDF](https://arxiv.org/abs/2010.16056)] \[[GitHub](https://github.com/cuhksz-nlp/R2Gen) ⭐ 207 | 🐛 28 | 🌐 Python | 📅 2024-01-14]
+\[[PDF](https://arxiv.org/abs/2010.16056)] \[[GitHub](https://github.com/cuhksz-nlp/R2Gen) ⭐ 206 | 🐛 28 | 🌐 Python | 📅 2024-01-14]
 
 **Reinforced Transformer for Medical Image Captioning** <br>
 *Yuxuan Xiong, Bo Du, Pingkun Yan*<br>
@@ -471,4 +471,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-22._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-23._
