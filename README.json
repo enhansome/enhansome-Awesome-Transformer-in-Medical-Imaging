@@ -251,7 +251,7 @@
                 "open_issues": 36,
                 "owner": "HiLab-git",
                 "repo": "SSL4MIS",
-                "stars": 2703,
+                "stars": 2702,
                 "topics": [
                   "semi-supervised-learning"
                 ]
@@ -687,7 +687,7 @@
                 "open_issues": 6,
                 "owner": "icon-lab",
                 "repo": "ResViT",
-                "stars": 186,
+                "stars": 185,
                 "topics": [
                   "attention",
                   "deep-learning",
@@ -1079,7 +1079,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-24T14:01:32.553Z",
+    "last_updated": "2026-10-25T14:24:12.995Z",
     "original_repository_info": {
       "archived": false,
       "description": "[MedIA Journal] An ultimately comprehensive paper list of Vision Transformer/Attention, including papers, codes, and related websites",
