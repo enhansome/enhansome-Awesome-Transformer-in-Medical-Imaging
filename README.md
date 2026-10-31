@@ -1,6 +1,6 @@
 # Awesome Advances in Medical Image Analysis with Vision Transformers: A Comprehensive Review with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/hee9joon/Awesome-Diffusion-Models) ⭐ 12,380 | 🐛 32 | 🌐 HTML | 📅 2024-08-01
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/hee9joon/Awesome-Diffusion-Models) ⭐ 12,382 | 🐛 32 | 🌐 HTML | 📅 2024-08-01
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 
 :fire::fire:This is a collection of awesome articles about Transformer models in medical imaging :fire::fire:
@@ -147,7 +147,7 @@
 **HiFormer: Hierarchical Multi-scale Representations Using Transformers for Medical Image Segmentation**<br>
 *Moein Heidari, Amirhossein Kazerouni, Milad Soltany, Reza Azad, Ehsan Khodapanah, Aghdam Julien Cohen-Adad, Dorit Merhof*<br>
 \[18th Jul., 2022] \[WACV, 2023] \
-[\[PDF\]](https://arxiv.org/abs/2207.08518) \[[GitHub](https://github.com/amirhossein-kz/HiFormer) ⭐ 147 | 🐛 1 | 🌐 Jupyter Notebook | 📅 2024-03-22]
+[\[PDF\]](https://arxiv.org/abs/2207.08518) \[[GitHub](https://github.com/amirhossein-kz/HiFormer) ⭐ 148 | 🐛 1 | 🌐 Jupyter Notebook | 📅 2024-03-22]
 
 **Self Pre-training with Masked Autoencoders for Medical Image Analysis**<br>
 *Lei Zhou, Huidong Liu, Joseph Bae, Junjun He, Dimitris Samaras, Prateek Prasanna*<br>
@@ -177,7 +177,7 @@
 **nnFormer: Interleaved Transformer for Volumetric Segmentation**<br>
 *Hong-Yu Zhou, Jiansen Guo, Yinghao Zhang, Lequan Yu, Liansheng Wang, Yizhou Yu*<br>
 \[7th Sep., 2021] \[arXiv, 2021] \
-[\[PDF\]](https://arxiv.org/abs/2109.03201) \[[GitHub](https://github.com/282857341/nnFormer) ⭐ 791 | 🐛 78 | 🌐 Python | 📅 2022-08-05]
+[\[PDF\]](https://arxiv.org/abs/2109.03201) \[[GitHub](https://github.com/282857341/nnFormer) ⭐ 792 | 🐛 78 | 🌐 Python | 📅 2022-08-05]
 
 **Medical Image Segmentation Using Squeeze-and-Expansion Transformers**<br>
 *Shaohua Li, Xiuchao Sui, Xiangde Luo, Xinxing Xu, Yong Liu, Rick Goh*<br>
@@ -187,7 +187,7 @@
 **Swin-Unet: Unet-like Pure Transformer for Medical Image Segmentation**<br>
 *Hu Cao, Yueyue Wang, Joy Chen, Dongsheng Jiang, Xiaopeng Zhang, Qi Tian, Manning Wang*  <br>
 \[12th May, 2021] \[arXiv, 2021] \
-\[[PDF](https://arxiv.org/abs/2105.05537)] \[[GitHub](https://github.com/HuCaoFighting/Swin-Unet) ⭐ 2,420 | 🐛 94 | 🌐 Python | 📅 2025-05-09]
+\[[PDF](https://arxiv.org/abs/2105.05537)] \[[GitHub](https://github.com/HuCaoFighting/Swin-Unet) ⭐ 2,419 | 🐛 94 | 🌐 Python | 📅 2025-05-09]
 
 **UNETR: Transformers for 3D Medical Image Segmentation**<br>
 *Ali Hatamizadeh, Yucheng Tang, Vishwesh Nath, Dong Yang, Andriy Myronenko, Bennett Landman, Holger Roth, Daguang Xu*<br>
@@ -217,7 +217,7 @@
 **TransUNet: Transformers Make Strong Encoders for Medical Image Segmentation** <br>
 *Jieneng Chen, Yongyi Lu, Qihang Yu, Xiangde Luo, Ehsan Adeli, Yan Wang, Le Lu, Alan L. Yuille, Yuyin Zhou*<br>
 \[8th Feb., 2021] \[arXiv, 2021] \
-\[[PDF](https://arxiv.org/abs/2102.04306)] \[[GitHub](https://github.com/Beckschen/TransUNet) ⭐ 3,250 | 🐛 138 | 🌐 Python | 📅 2026-02-25]
+\[[PDF](https://arxiv.org/abs/2102.04306)] \[[GitHub](https://github.com/Beckschen/TransUNet) ⭐ 3,247 | 🐛 138 | 🌐 Python | 📅 2026-02-25]
 
 ***
 
@@ -388,7 +388,7 @@
 **TransMorph: Transformer for unsupervised medical image registration** <br>
 *Junyu Chen, Eric C. Frey, Yufan He, William P. Segars, Ye Li, Yong Du*<br>
 \[19th Nov., 2021] \[MedIA Journal]\
-\[[PDF](https://arxiv.org/abs/2111.10480)] \[[GitHub](https://github.com/junyuchen245/TransMorph_Transformer_for_Medical_Image_Registration) ⭐ 635 | 🐛 7 | 🌐 Python | 📅 2025-05-22]
+\[[PDF](https://arxiv.org/abs/2111.10480)] \[[GitHub](https://github.com/junyuchen245/TransMorph_Transformer_for_Medical_Image_Registration) ⭐ 636 | 🐛 7 | 🌐 Python | 📅 2025-05-22]
 
 **Learning dual transformer network for diffeomorphic registration** <br>
 *Yungeng Zhang, Yuru Pei & Hongbin Zha*<br>
@@ -471,4 +471,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-30._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-31._
