@@ -251,7 +251,7 @@
                 "open_issues": 36,
                 "owner": "HiLab-git",
                 "repo": "SSL4MIS",
-                "stars": 2702,
+                "stars": 2703,
                 "topics": [
                   "semi-supervised-learning"
                 ]
@@ -337,7 +337,7 @@
                 "open_issues": 94,
                 "owner": "HuCaoFighting",
                 "repo": "Swin-Unet",
-                "stars": 2419,
+                "stars": 2418,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:11:32.809Z"
@@ -480,7 +480,7 @@
                 "open_issues": 138,
                 "owner": "Beckschen",
                 "repo": "TransUNet",
-                "stars": 3251,
+                "stars": 3249,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:11:32.809Z"
@@ -896,7 +896,7 @@
                 "open_issues": 7,
                 "owner": "junyuchen245",
                 "repo": "TransMorph_Transformer_for_Medical_Image_Registration",
-                "stars": 638,
+                "stars": 639,
                 "topics": [
                   "bayesian-deep-learning",
                   "deep-learning",
@@ -926,7 +926,7 @@
                 "open_issues": 2,
                 "owner": "junyuchen245",
                 "repo": "ViT-V-Net_for_3D_Image_Registration_Pytorch",
-                "stars": 349,
+                "stars": 348,
                 "topics": [
                   "convolutional-neural-networks",
                   "image-registration",
@@ -1079,7 +1079,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-03T17:51:40.327Z",
+    "last_updated": "2026-11-04T17:59:59.890Z",
     "original_repository_info": {
       "archived": false,
       "description": "[MedIA Journal] An ultimately comprehensive paper list of Vision Transformer/Attention, including papers, codes, and related websites",
