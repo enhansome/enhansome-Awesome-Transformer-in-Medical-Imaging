@@ -177,7 +177,7 @@
 **nnFormer: Interleaved Transformer for Volumetric Segmentation**<br>
 *Hong-Yu Zhou, Jiansen Guo, Yinghao Zhang, Lequan Yu, Liansheng Wang, Yizhou Yu*<br>
 \[7th Sep., 2021] \[arXiv, 2021] \
-[\[PDF\]](https://arxiv.org/abs/2109.03201) \[[GitHub](https://github.com/282857341/nnFormer) ⭐ 792 | 🐛 78 | 🌐 Python | 📅 2022-08-05]
+[\[PDF\]](https://arxiv.org/abs/2109.03201) \[[GitHub](https://github.com/282857341/nnFormer) ⭐ 793 | 🐛 78 | 🌐 Python | 📅 2022-08-05]
 
 **Medical Image Segmentation Using Squeeze-and-Expansion Transformers**<br>
 *Shaohua Li, Xiuchao Sui, Xiangde Luo, Xinxing Xu, Yong Liu, Rick Goh*<br>
@@ -403,7 +403,7 @@
 **Affine Medical Image Registration with Coarse-to-Fine Vision Transformer** <br>
 *Tony C. W. Mok, Albert C. S. Chung*<br>
 \[29th Mar., 2022] \[CVPR, 2022] \
-\[[PDF](https://arxiv.org/abs/2203.15216)] \[[GitHub](https://github.com/cwmok/C2FViT) ⭐ 155 | 🐛 5 | 🌐 Python | 📅 2023-11-02]
+\[[PDF](https://arxiv.org/abs/2203.15216)] \[[GitHub](https://github.com/cwmok/C2FViT) ⭐ 154 | 🐛 5 | 🌐 Python | 📅 2023-11-02]
 
 ***
 
@@ -471,4 +471,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-04._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-05._
