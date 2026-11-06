@@ -162,7 +162,7 @@
 **Semi-Supervised Medical Image Segmentation via Cross Teaching between CNN and Transformer**<br>
 *Xiangde Luo, Minhao Hu, Tao Song, Guotai Wang, Shaoting Zhang*<br>
 \[9th Dec., 2021] \[MIDL, 2022] \
-\[[PDF](https://arxiv.org/abs/2112.04894)] \[[Github](https://github.com/HiLab-git/SSL4MIS) ⭐ 2,703 | 🐛 36 | 🌐 Python | 📅 2025-06-07]
+\[[PDF](https://arxiv.org/abs/2112.04894)] \[[Github](https://github.com/HiLab-git/SSL4MIS) ⭐ 2,704 | 🐛 36 | 🌐 Python | 📅 2025-06-07]
 
 **T-AutoML: Automated Machine Learning for Lesion Segmentation using Transformers in 3D Medical Imaging**<br>
 *Dong Yang, Andriy Myronenko, Xiaosong Wang, Ziyue Xu, Holger R. Roth, Daguang Xu*<br>
@@ -378,7 +378,7 @@
 **SVoRT: Iterative Transformer for Slice-to-Volume Registration in Fetal Brain MRI.** <br>
 *Junshen Xu, Daniel Moyer, P. Ellen Grant, Polina Golland, Juan Eugenio Iglesias, Elfar Adalsteinsson.*<br>
 \[22th Jun., 2022] \[MICCAI, 2022] \
-\[[PDF](https://arxiv.org/abs/2206.10802?context=eess)] \[[GitHub](https://github.com/daviddmc/svort) ⭐ 49 | 🐛 1 | 🌐 Python | 📅 2023-05-11]
+\[[PDF](https://arxiv.org/abs/2206.10802?context=eess)] \[[GitHub](https://github.com/daviddmc/svort) ⭐ 50 | 🐛 1 | 🌐 Python | 📅 2023-05-11]
 
 **XMorpher: Full Transformer for Deformable Medical Image Registration via Cross Attention**<br>
 *Jiacheng Shi, Yuting He, Youyong Kong, Jean-Louis Coatrieux, Huazhong Shu, Guanyu Yang, Shuo Li*<br>
@@ -471,4 +471,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-05._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-06._
