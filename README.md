@@ -108,7 +108,7 @@
 **TransMIL: Transformer based Correlated Multiple Instance Learning for Whole Slide Image Classification** <br>
 *Zhuchen Shao, Hao Bian, Yang Chen, Yifeng Wang, Jian Zhang, Xiangyang Ji, Yongbing Zhang*<br>
 \[2nd Jun., 2021] \[NeurIPS, 2021] \
-\[[PDF](https://openreview.net/pdf?id=LKUfuWxajHc)] \[[GitHub](https://github.com/szc19990412/TransMIL) ⭐ 495 | 🐛 26 | 🌐 Python | 📅 2024-05-03]
+\[[PDF](https://openreview.net/pdf?id=LKUfuWxajHc)] \[[GitHub](https://github.com/szc19990412/TransMIL) ⭐ 494 | 🐛 26 | 🌐 Python | 📅 2024-05-03]
 
 **Lesion-Aware Transformers for Diabetic Retinopathy Grading** <br>
 *Rui Sun, Yihao Li, Tianzhu Zhang, Zhendong Mao, Feng Wu, Yongdong Zhang*<br>
@@ -187,7 +187,7 @@
 **Swin-Unet: Unet-like Pure Transformer for Medical Image Segmentation**<br>
 *Hu Cao, Yueyue Wang, Joy Chen, Dongsheng Jiang, Xiaopeng Zhang, Qi Tian, Manning Wang*  <br>
 \[12th May, 2021] \[arXiv, 2021] \
-\[[PDF](https://arxiv.org/abs/2105.05537)] \[[GitHub](https://github.com/HuCaoFighting/Swin-Unet) ⭐ 2,418 | 🐛 94 | 🌐 Python | 📅 2025-05-09]
+\[[PDF](https://arxiv.org/abs/2105.05537)] \[[GitHub](https://github.com/HuCaoFighting/Swin-Unet) ⭐ 2,419 | 🐛 94 | 🌐 Python | 📅 2025-05-09]
 
 **UNETR: Transformers for 3D Medical Image Segmentation**<br>
 *Ali Hatamizadeh, Yucheng Tang, Vishwesh Nath, Dong Yang, Andriy Myronenko, Bennett Landman, Holger Roth, Daguang Xu*<br>
@@ -471,4 +471,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-08._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-09._
