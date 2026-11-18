@@ -1,6 +1,6 @@
 # Awesome Advances in Medical Image Analysis with Vision Transformers: A Comprehensive Review with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/hee9joon/Awesome-Diffusion-Models) ⭐ 12,383 | 🐛 32 | 🌐 HTML | 📅 2024-08-01
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/hee9joon/Awesome-Diffusion-Models) ⭐ 12,384 | 🐛 32 | 🌐 HTML | 📅 2024-08-01
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 
 :fire::fire:This is a collection of awesome articles about Transformer models in medical imaging :fire::fire:
@@ -157,12 +157,12 @@
 **Swin UNETR: Swin Transformers for Semantic Segmentation of Brain Tumors in MRI Images**<br>
 *Ali Hatamizadeh, Vishwesh Nath, Yucheng Tang, Dong Yang, Holger Roth, Daguang Xu*  <br>
 \[4th Jan., 2022] \[MICCAI Workshop] \
-\[[PDF](https://arxiv.org/abs/2201.01266)] \[[GitHub](https://github.com/Project-MONAI/research-contributions/tree/main/SwinUNETR) ⭐ 1,226 | 🐛 118 | 🌐 Python | 📅 2026-11-01]
+\[[PDF](https://arxiv.org/abs/2201.01266)] \[[GitHub](https://github.com/Project-MONAI/research-contributions/tree/main/SwinUNETR) ⭐ 1,227 | 🐛 118 | 🌐 Python | 📅 2026-11-01]
 
 **Semi-Supervised Medical Image Segmentation via Cross Teaching between CNN and Transformer**<br>
 *Xiangde Luo, Minhao Hu, Tao Song, Guotai Wang, Shaoting Zhang*<br>
 \[9th Dec., 2021] \[MIDL, 2022] \
-\[[PDF](https://arxiv.org/abs/2112.04894)] \[[Github](https://github.com/HiLab-git/SSL4MIS) ⭐ 2,706 | 🐛 36 | 🌐 Python | 📅 2025-06-07]
+\[[PDF](https://arxiv.org/abs/2112.04894)] \[[Github](https://github.com/HiLab-git/SSL4MIS) ⭐ 2,707 | 🐛 36 | 🌐 Python | 📅 2025-06-07]
 
 **T-AutoML: Automated Machine Learning for Lesion Segmentation using Transformers in 3D Medical Imaging**<br>
 *Dong Yang, Andriy Myronenko, Xiaosong Wang, Ziyue Xu, Holger R. Roth, Daguang Xu*<br>
@@ -192,7 +192,7 @@
 **UNETR: Transformers for 3D Medical Image Segmentation**<br>
 *Ali Hatamizadeh, Yucheng Tang, Vishwesh Nath, Dong Yang, Andriy Myronenko, Bennett Landman, Holger Roth, Daguang Xu*<br>
 \[18th Mar., 2021] \[WACV, 2022] \
-\[[PDF](https://arxiv.org/abs/2103.10504)] \[[GitHub](https://github.com/Project-MONAI/research-contributions/tree/main/UNETR/BTCV) ⭐ 1,226 | 🐛 118 | 🌐 Python | 📅 2026-11-01]
+\[[PDF](https://arxiv.org/abs/2103.10504)] \[[GitHub](https://github.com/Project-MONAI/research-contributions/tree/main/UNETR/BTCV) ⭐ 1,227 | 🐛 118 | 🌐 Python | 📅 2026-11-01]
 
 **TransBTS: Multimodal Brain Tumor Segmentation Using Transformer**<br>
 *Jiangyun Li, Wenxuan Wang, Chen Chen, Tianxiang Zhang, Sen Zha, Hong Yu, Jing Wang*<br>
@@ -207,7 +207,7 @@
 **Medical Transformer: Gated Axial-Attention for Medical Image Segmentation**<br>
 *Jeya Maria Jose Valanarasu, Poojan Oza, Ilker Hacihaliloglu, Vishal M. Patel*<br>
 \[21th Feb., 2021] \[MICCAI, 2021] \
-\[[PDF](https://arxiv.org/abs/2102.10662)] \[[GitHub](https://github.com/jeya-maria-jose/Medical-Transformer) ⭐ 860 | 🐛 37 | 🌐 Python | 📅 2023-02-23]
+\[[PDF](https://arxiv.org/abs/2102.10662)] \[[GitHub](https://github.com/jeya-maria-jose/Medical-Transformer) ⭐ 861 | 🐛 37 | 🌐 Python | 📅 2023-02-23]
 
 **TransFuse: Fusing Transformers and CNNs for Medical Image Segmentation**<br>
 *Yundong Zhang, Huiye Liu, Qiang Hu*<br>
@@ -217,7 +217,7 @@
 **TransUNet: Transformers Make Strong Encoders for Medical Image Segmentation** <br>
 *Jieneng Chen, Yongyi Lu, Qihang Yu, Xiangde Luo, Ehsan Adeli, Yan Wang, Le Lu, Alan L. Yuille, Yuyin Zhou*<br>
 \[8th Feb., 2021] \[arXiv, 2021] \
-\[[PDF](https://arxiv.org/abs/2102.04306)] \[[GitHub](https://github.com/Beckschen/TransUNet) ⭐ 3,253 | 🐛 138 | 🌐 Python | 📅 2026-02-25]
+\[[PDF](https://arxiv.org/abs/2102.04306)] \[[GitHub](https://github.com/Beckschen/TransUNet) ⭐ 3,252 | 🐛 138 | 🌐 Python | 📅 2026-02-25]
 
 ***
 
@@ -388,7 +388,7 @@
 **TransMorph: Transformer for unsupervised medical image registration** <br>
 *Junyu Chen, Eric C. Frey, Yufan He, William P. Segars, Ye Li, Yong Du*<br>
 \[19th Nov., 2021] \[MedIA Journal]\
-\[[PDF](https://arxiv.org/abs/2111.10480)] \[[GitHub](https://github.com/junyuchen245/TransMorph_Transformer_for_Medical_Image_Registration) ⭐ 639 | 🐛 7 | 🌐 Python | 📅 2025-05-22]
+\[[PDF](https://arxiv.org/abs/2111.10480)] \[[GitHub](https://github.com/junyuchen245/TransMorph_Transformer_for_Medical_Image_Registration) ⭐ 640 | 🐛 7 | 🌐 Python | 📅 2025-05-22]
 
 **Learning dual transformer network for diffeomorphic registration** <br>
 *Yungeng Zhang, Yuru Pei & Hongbin Zha*<br>
@@ -471,4 +471,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-17._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-18._
