@@ -1064,7 +1064,7 @@
                 "open_issues": 28,
                 "owner": "cuhksz-nlp",
                 "repo": "R2Gen",
-                "stars": 206,
+                "stars": 207,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:11:32.809Z"
@@ -1079,7 +1079,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-24T20:40:34.336Z",
+    "last_updated": "2026-11-25T19:57:18.566Z",
     "original_repository_info": {
       "archived": false,
       "description": "[MedIA Journal] An ultimately comprehensive paper list of Vision Transformer/Attention, including papers, codes, and related websites",

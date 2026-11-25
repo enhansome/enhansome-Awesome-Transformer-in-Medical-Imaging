@@ -1,6 +1,6 @@
 # Awesome Advances in Medical Image Analysis with Vision Transformers: A Comprehensive Review with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/hee9joon/Awesome-Diffusion-Models) ⭐ 12,384 | 🐛 32 | 🌐 HTML | 📅 2024-08-01
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/hee9joon/Awesome-Diffusion-Models) ⭐ 12,386 | 🐛 32 | 🌐 HTML | 📅 2024-08-01
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 
 :fire::fire:This is a collection of awesome articles about Transformer models in medical imaging :fire::fire:
@@ -457,7 +457,7 @@
 **Generating Radiology Reports via Memory-driven Transformer**<br>
 *Zhihong Chen, Yan Song, Tsung-Hui Chang, Xiang Wan*<br>
 \[30th Oct., 2020] \[EMNLP, 2020] \
-\[[PDF](https://arxiv.org/abs/2010.16056)] \[[GitHub](https://github.com/cuhksz-nlp/R2Gen) ⭐ 206 | 🐛 28 | 🌐 Python | 📅 2024-01-14]
+\[[PDF](https://arxiv.org/abs/2010.16056)] \[[GitHub](https://github.com/cuhksz-nlp/R2Gen) ⭐ 207 | 🐛 28 | 🌐 Python | 📅 2024-01-14]
 
 **Reinforced Transformer for Medical Image Captioning** <br>
 *Yuxuan Xiong, Bo Du, Pingkun Yan*<br>
@@ -471,4 +471,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-24._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-25._
