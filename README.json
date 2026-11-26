@@ -477,7 +477,7 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-02-25T04:44:14Z",
-                "open_issues": 138,
+                "open_issues": 139,
                 "owner": "Beckschen",
                 "repo": "TransUNet",
                 "stars": 3251,
@@ -1079,7 +1079,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-25T19:57:18.566Z",
+    "last_updated": "2026-11-26T19:38:54.860Z",
     "original_repository_info": {
       "archived": false,
       "description": "[MedIA Journal] An ultimately comprehensive paper list of Vision Transformer/Attention, including papers, codes, and related websites",
