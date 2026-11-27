@@ -162,7 +162,7 @@
 **Semi-Supervised Medical Image Segmentation via Cross Teaching between CNN and Transformer**<br>
 *Xiangde Luo, Minhao Hu, Tao Song, Guotai Wang, Shaoting Zhang*<br>
 \[9th Dec., 2021] \[MIDL, 2022] \
-\[[PDF](https://arxiv.org/abs/2112.04894)] \[[Github](https://github.com/HiLab-git/SSL4MIS) ⭐ 2,710 | 🐛 36 | 🌐 Python | 📅 2025-06-07]
+\[[PDF](https://arxiv.org/abs/2112.04894)] \[[Github](https://github.com/HiLab-git/SSL4MIS) ⭐ 2,711 | 🐛 36 | 🌐 Python | 📅 2025-06-07]
 
 **T-AutoML: Automated Machine Learning for Lesion Segmentation using Transformers in 3D Medical Imaging**<br>
 *Dong Yang, Andriy Myronenko, Xiaosong Wang, Ziyue Xu, Holger R. Roth, Daguang Xu*<br>
@@ -182,12 +182,12 @@
 **Medical Image Segmentation Using Squeeze-and-Expansion Transformers**<br>
 *Shaohua Li, Xiuchao Sui, Xiangde Luo, Xinxing Xu, Yong Liu, Rick Goh*<br>
 \[20th May, 2021] \[IJCAI, 2021] \
-\[[PDF](https://arxiv.org/abs/2105.09511)] \[[GitHub](https://github.com/askerlee/segtran) ⭐ 227 | 🐛 10 | 🌐 Python | 📅 2022-06-15]
+\[[PDF](https://arxiv.org/abs/2105.09511)] \[[GitHub](https://github.com/askerlee/segtran) ⭐ 226 | 🐛 10 | 🌐 Python | 📅 2022-06-15]
 
 **Swin-Unet: Unet-like Pure Transformer for Medical Image Segmentation**<br>
 *Hu Cao, Yueyue Wang, Joy Chen, Dongsheng Jiang, Xiaopeng Zhang, Qi Tian, Manning Wang*  <br>
 \[12th May, 2021] \[arXiv, 2021] \
-\[[PDF](https://arxiv.org/abs/2105.05537)] \[[GitHub](https://github.com/HuCaoFighting/Swin-Unet) ⭐ 2,424 | 🐛 94 | 🌐 Python | 📅 2025-05-09]
+\[[PDF](https://arxiv.org/abs/2105.05537)] \[[GitHub](https://github.com/HuCaoFighting/Swin-Unet) ⭐ 2,423 | 🐛 94 | 🌐 Python | 📅 2025-05-09]
 
 **UNETR: Transformers for 3D Medical Image Segmentation**<br>
 *Ali Hatamizadeh, Yucheng Tang, Vishwesh Nath, Dong Yang, Andriy Myronenko, Bennett Landman, Holger Roth, Daguang Xu*<br>
@@ -388,7 +388,7 @@
 **TransMorph: Transformer for unsupervised medical image registration** <br>
 *Junyu Chen, Eric C. Frey, Yufan He, William P. Segars, Ye Li, Yong Du*<br>
 \[19th Nov., 2021] \[MedIA Journal]\
-\[[PDF](https://arxiv.org/abs/2111.10480)] \[[GitHub](https://github.com/junyuchen245/TransMorph_Transformer_for_Medical_Image_Registration) ⭐ 642 | 🐛 7 | 🌐 Python | 📅 2025-05-22]
+\[[PDF](https://arxiv.org/abs/2111.10480)] \[[GitHub](https://github.com/junyuchen245/TransMorph_Transformer_for_Medical_Image_Registration) ⭐ 641 | 🐛 7 | 🌐 Python | 📅 2025-05-22]
 
 **Learning dual transformer network for diffeomorphic registration** <br>
 *Yungeng Zhang, Yuru Pei & Hongbin Zha*<br>
@@ -398,7 +398,7 @@
 **ViT-V-Net: Vision Transformer for Unsupervised Volumetric Medical Image Registration** <br>
 *Junyu Chen, Yufan He, Eric C. Frey, Ye Li, Yong Du*<br>
 \[13th Apr., 2021] \[MIDL, 2021] \
-\[[PDF](https://arxiv.org/abs/2104.06468)] \[[GitHub](https://github.com/junyuchen245/ViT-V-Net_for_3D_Image_Registration_Pytorch) ⭐ 348 | 🐛 2 | 🌐 Python | 📅 2022-11-06]
+\[[PDF](https://arxiv.org/abs/2104.06468)] \[[GitHub](https://github.com/junyuchen245/ViT-V-Net_for_3D_Image_Registration_Pytorch) ⭐ 347 | 🐛 2 | 🌐 Python | 📅 2022-11-06]
 
 **Affine Medical Image Registration with Coarse-to-Fine Vision Transformer** <br>
 *Tony C. W. Mok, Albert C. S. Chung*<br>
@@ -471,4 +471,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-26._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-27._
